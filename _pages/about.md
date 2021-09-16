@@ -25,7 +25,7 @@ Publication
 
 Preprints:
 
-- Hongming Zhang*, Xin Liu*, Haojie Pan*, Haowen Ke, Jiefu Ou, **Tianqing Fang**, and Yangqiu Song. ASER: Towards Large-scale Commonsense Knowledge Acquisition via Higher-order Selectional Preference over Eventualities. 2021, arXiv: 2104.02137. [\[pdf\]](https://arxiv.org/abs/2104.02137) [\[code\]](https://github.com/HKUST-KnowComp/ASER) [\[homepage\]](https://hkust-knowcomp.github.io/ASER)
+- Hongming Zhang * , Xin Liu * , Haojie Pan * , Haowen Ke, Jiefu Ou, **Tianqing Fang**, and Yangqiu Song. ASER: Towards Large-scale Commonsense Knowledge Acquisition via Higher-order Selectional Preference over Eventualities. 2021, arXiv: 2104.02137. [\[pdf\]](https://arxiv.org/abs/2104.02137) [\[code\]](https://github.com/HKUST-KnowComp/ASER) [\[homepage\]](https://hkust-knowcomp.github.io/ASER)
 
 *: Equal Contribution
 
