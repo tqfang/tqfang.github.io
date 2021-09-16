@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Tianqing Fang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a 3rd year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology, supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). 
+
+Research Interest
+------
+- Commonsense Knowledge: Acquisition and Reasoning
+
+Publication
+------
+- **Tianqing Fang***, Weiqi Wang*, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He. Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021 (Main Conference). [\[pdf\]]()[\[code\]](https://github.com/HKUST-KnowComp/CSKB-Population)
+- **Tianqing Fang**, Haojie Pan, Hongming Zhang, Yangqiu Song, Kun Xu, Dong Yu. Do Boat and Ocean Suggest Beach? Dialogue Summarization with External Knowledge. Conference on Automated Knowledge Base Construction (AKBC). 2021. [\[pdf\]](https://www.akbc.ws/2021/papers/AJKd0iIFMDc) [\[code\]](https://github.com/HKUST-KnowComp/CODC-Dialogue-Summarization)
+- Nedjma Ousidhoum, Xinran Zhao, **Tianqing Fang**, Yangqiu Song, and Dit-Yan Yeung. Probing Toxic Content in Large Pre-Trained Language Models. Annual Meeting of the Association for Computational Linguistics (ACL). 2021. [\[pdf\]](https://github.com/HKUST-KnowComp/Probing_toxicity_in_PTLMs/blob/main/probing_toxic_content_acl2021.pdf) [\[code\]](https://github.com/HKUST-KnowComp/Probing_toxicity_in_PTLMs)
+- **Tianqing Fang**, Hongming Zhang, Weiqi Wang, Yangqiu Song, and Bin He. DISCOS: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge. The Web Conference (WWW), 2021. [\[pdf\]](https://arxiv.org/abs/2101.00154) [\[code\]](https://github.com/HKUST-KnowComp/DISCOS-commonsense) [\[video\]](https://www.youtube.com/watch?v=Ogzyf8gj5IM&t=1s)
+
+Preprints:
+
+- Hongming Zhang*, Xin Liu*, Haojie Pan*, Haowen Ke, Jiefu Ou, **Tianqing Fang**, and Yangqiu Song. ASER: Towards Large-scale Commonsense Knowledge Acquisition via Higher-order Selectional Preference over Eventualities. 2021, arXiv: 2104.02137. [\[pdf\]](https://arxiv.org/abs/2104.02137) [\[code\]](https://github.com/HKUST-KnowComp/ASER) [\[homepage\]](https://hkust-knowcomp.github.io/ASER)
+
+*: Equal Contribution
+
+Awards
+------
+- Hong Kong Ph.D. Fellowship (2019-2023)
+- Special Scholarship for Undergraduate Students in Zhejiang University (2018)
+- 1st Place and MATLAB Innovation Award in Contemporary Undergraduate Mathematical Contest in Modeling (2017)
+- National Scholarship (ZJU, 2016)
+
+
+Teaching
+------
+- COMP5222/MATH5471:Statistical Learning Models for Text and Graph Data. (Fall 2021)
+- MSBD6000H: Natural Language Processing. (Spring 2021)
+- COMP4901K/MATH4824B: Machine Learning for Natural Language Processing. (Fall 2020)
+- COMP4332/RMBI4310: Big Data Mining. (Spring 2020)
+
+<!-- 
 
 A data-driven personal website
 ======
@@ -48,3 +82,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
