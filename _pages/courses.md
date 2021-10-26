@@ -9,11 +9,24 @@ author_profile: true
 
 {% include base_path %}
 
+Ph.D. Courses (HKUST)
+======
+
+<img src='/images/transcripts/hkust_unofficial_transcript-1.jpg'>
+<img src='/images/transcripts/hkust_unofficial_transcript-2.jpg'>
+
+AI-related courses:
+  * Statistical Learning Models for Text and Graph Data: A
+  * Machine Learning: A
+  * Introduction to Combinatorial Optimization: A
+  * Optimization for Machine Learning: A-
+  * Topological and Geometric Data Reduction and Visualization: A
+
 Undergraduage Courses (Zhejiang University)
 ======
 Official Transcript:
 
-<img src='/images/Transcript-finalversion.jpeg'>
+<img src='/images/transcripts/Transcript-finalversion.jpeg'>
 
 Computer Science Courses:
   * Fundementals of Programming: 87
@@ -23,10 +36,17 @@ Computer Science Courses:
   * Introduction to Big Data Analytics and Application: 89
   * Principle of Database System: 90
   * Operating System: 83
-  * Theory of Computation: 90
+  * Theory of Computation: 80
   
-<!-- Automation/ Robotics-related Courses: -->
-
+Automation/ Robotics-related Courses:
+  * Electric Circuit and Analog Electronic Technology: 85
+  * Digital Circuit Analysis and Design: 97
+  * Mathematical Modeling & Simulation: 91
+  * Principles of Automatic Control I/II: 90/91
+  * Wheeled Mobile Robots and Enhanced Lab Training: 87
+  * Robots Technology: 93
+  * Microprocessors & Interfacing: 96
+  * Data Analysis & System Identification: 99
 
 <!-- ---
 title: "Portfolio item number 1"
