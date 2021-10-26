@@ -1,21 +1,42 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Courses"
+permalink: /courses/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+#   - /resume
 ---
 
 {% include base_path %}
 
-Education
+Undergraduage Courses (Zhejiang University)
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Official Transcript:
 
-Work experience
+<img src='/images/Transcript-finalversion.jpeg'>
+
+Computer Science Courses:
+  * Fundementals of Programming: 87
+  * Object-Oriented Programming: 88
+  * Fundamentals of Data Structures: 91
+  * Numerical Method: 96
+  * Introduction to Big Data Analytics and Application: 89
+  * Principle of Database System: 90
+  * Operating System: 83
+  * Theory of Computation: 90
+  
+<!-- Automation/ Robotics-related Courses: -->
+
+
+<!-- ---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1
+collection: portfolio
+--- -->
+
+
+
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,7 +47,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -57,3 +78,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->  
