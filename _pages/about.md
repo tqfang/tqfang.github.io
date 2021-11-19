@@ -12,6 +12,7 @@ I'm a 3rd year Ph.D. student at the Department of Computer Science and Engineeri
 
 Research Interest
 ------
+- Natural Language Processing
 - Commonsense Knowledge: Acquisition and Reasoning
 
 Publication
