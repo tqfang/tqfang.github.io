@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology, supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). 
+I'm a 3rd year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology, supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). Here is my [Curriculum Vitae (Oct 2021)](http://fangtq.com/files/tianqing_CV.pdf).
 
 Research Interest
 ------
