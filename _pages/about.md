@@ -17,6 +17,10 @@ Research Interest
 
 Publication
 ------
+### 2022
+
+- Ziqian Zeng, Weimin Ni, **Tianqing Fang**, Xiang Li, Xinran Zhao, and Yangqiu Song. Weakly Supervised Text Classification using Supervision Signals from a Language Model. Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL). 2022. To Appear.
+
 ### 2021
 
 - **Tianqing Fang** *, Weiqi Wang *, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He. Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021 (Main Conference). [\[pdf\]](https://arxiv.org/abs/2109.07679) [\[code\]](https://github.com/HKUST-KnowComp/CSKB-Population) [\[video\]](https://www.youtube.com/watch?v=5pLLHaPrx-I)
@@ -44,6 +48,11 @@ Teaching
 - MSBD6000H: Natural Language Processing. (Spring 2021)
 - COMP4901K/MATH4824B: Machine Learning for Natural Language Processing. (Fall 2020)
 - COMP4332/RMBI4310: Big Data Mining. (Spring 2020)
+
+Academic Service
+------
+- Conference Reviewer: ACL Rolling Review (From Feb 2022 - present)
+- Conference External Reviewer: KDD'20, 21, ACL'21, EMNLP'21
 
 Miscs:
 -----
