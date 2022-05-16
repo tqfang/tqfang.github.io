@@ -88,7 +88,8 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Tb3rc34AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
+  semanticscholar  : "https://www.semanticscholar.org/author/2044202073"
   uri              :
   bitbucket        :
   codepen          :
