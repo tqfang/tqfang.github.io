@@ -19,18 +19,18 @@ Publication
 ------
 ### Journal
 
-**2022**
+2022
 
 - Hongming Zhang *, Xin Liu *, Haojie Pan *, Haowen Ke, Jiefu Ou, **Tianqing Fang**, and Yangqiu Song. ASER: Towards Large-scale Commonsense Knowledge Acquisition via Higher-order Selectional Preference over Eventualities. Artificial Intelligence, 2022. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0004370222000807) [\[arxiv\]](https://arxiv.org/abs/2104.02137) [\[code\]](https://github.com/HKUST-KnowComp/ASER) [\[homepage\]](https://hkust-knowcomp.github.io/ASER)
 
 
 ### Conference
 
-**2022**
+2022
 
 - Ziqian Zeng, Weimin Ni, **Tianqing Fang**, Xiang Li, Xinran Zhao, and Yangqiu Song. Weakly Supervised Text Classification using Supervision Signals from a Language Model. Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL). 2022. [\[pdf\]](https://arxiv.org/pdf/2205.06604.pdf).
 
-**2021**
+2021
 
 - **Tianqing Fang** *, Weiqi Wang *, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He. Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021 (Main Conference). [\[pdf\]](https://arxiv.org/abs/2109.07679) [\[code\]](https://github.com/HKUST-KnowComp/CSKB-Population) [\[video\]](https://www.youtube.com/watch?v=5pLLHaPrx-I)
 - **Tianqing Fang**, Haojie Pan, Hongming Zhang, Yangqiu Song, Kun Xu, Dong Yu. Do Boat and Ocean Suggest Beach? Dialogue Summarization with External Knowledge. Conference on Automated Knowledge Base Construction (AKBC). 2021. [\[pdf\]](https://www.akbc.ws/2021/papers/AJKd0iIFMDc) [\[code\]](https://github.com/HKUST-KnowComp/CODC-Dialogue-Summarization)
