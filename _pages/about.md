@@ -17,6 +17,11 @@ Research Interest
 
 Publication
 ------
+
+### Preprint
+
+- Mutian He, **Tianqing Fang**, Weiqi Wang, and Yangqiu Song. Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization. 2022. [\[paper\]](https://arxiv.org/pdf/2206.01532.pdf) [\[code\]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
+
 ### Journal
 
 2022
