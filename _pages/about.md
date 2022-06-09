@@ -48,10 +48,11 @@ Publication
 
 Awards
 ------
+- HKUST RedBird Academic Excellence Award for Continuing PhD Students in 2021/22 (2022)
 - Hong Kong Ph.D. Fellowship (2019-2023)
-- Special Scholarship for Undergraduate Students in Zhejiang University (2018)
-- 1st Place and MATLAB Innovation Award in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/) (2017)
-- National Scholarship (ZJU, 2016)
+- Special Scholarship for Undergraduate Students in Zhejiang University (one of the top honor in ZJU) (2018)
+- 1st Place and MATLAB Innovation Award (1st/36K+) in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/) (2017)
+- National Scholarship (top 3%, ZJU, 2016)
 
 
 Teaching
