@@ -64,7 +64,7 @@ Teaching
 
 Academic Service
 ------
-- Conference Reviewer: ACL Rolling Review (From Feb 2022 - present)
+- Conference Reviewer: ACL Rolling Review (From Feb 2022 - present), AAAI'23, EMNLP'22, COLING'22
 - Conference External Reviewer: KDD'20, 21, ACL'21, EMNLP'21
 
 Miscs:
