@@ -71,6 +71,8 @@ Miscs:
 -----
 I take pictures on weekends. Check out some of them on [flickr](https://www.flickr.com/photos/193147267@N02/albums)
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1rGYEOu6BaCxnSv3lwCWOBjlq9pFF_8iT_upuStA-JY&cl=ffffff&w=a"></script>
+
 <!-- 
 
 A data-driven personal website
