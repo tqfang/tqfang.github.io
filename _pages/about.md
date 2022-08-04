@@ -71,9 +71,6 @@ Miscs:
 -----
 I take pictures on weekends. Check out some of them on [flickr](https://www.flickr.com/photos/193147267@N02/albums)
 
-<!-- <body> -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1rGYEOu6BaCxnSv3lwCWOBjlq9pFF_8iT_upuStA-JY&cl=ffffff&w=a" style="width: 250px"></script>
-<!-- </body> -->
 
 <a href="https://clustrmaps.com/site/1am85"  title="Visit tracker" style="width: 250px"><img src="//www.clustrmaps.com/map_v2.png?d=1rGYEOu6BaCxnSv3lwCWOBjlq9pFF_8iT_upuStA-JY&cl=ffffff" /></a>
 
