@@ -33,6 +33,12 @@ Publication
 
 2022
 
+- **Tianqing Fang**, Quyet V. Do, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See. PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population. Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), 2022. (To appear)
+
+-  Ying Su, Zihao Wang, **Tianqing Fang**, Hongming Zhang, Yangqiu Song and Tong Zhang. MICO: A Multi-alternative Contrastive Learning Framework for Commonsense Knowledge Representation. Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), 2022. (To appear)
+
+- Zhaowei Wang, Hongming Zhang, **Tianqing Fang**, Yangqiu Song, Ginny Y. Wong and Simon See. SubeventWriter: Iterative Sub-event Sequence Generation with Coherence Controller. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022. (To appear)
+
 - Ziqian Zeng, Weimin Ni, **Tianqing Fang**, Xiang Li, Xinran Zhao, and Yangqiu Song. Weakly Supervised Text Classification using Supervision Signals from a Language Model. Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL). 2022. [\[pdf\]](https://arxiv.org/pdf/2205.06604.pdf).
 
 2021
