@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology, supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/), and is now a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). Here is my [Curriculum Vitae (May 2022)](http://fangtq.com/files/tianqing_CV.pdf).
+I'm a 4-th year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology, supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/), and is now a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). Here is my [Curriculum Vitae (Oct 2022)](http://fangtq.com/files/tianqing_CV.pdf).
 
 Research Interest
 ------
 - Natural Language Processing
 - Commonsense Knowledge: Acquisition and Reasoning
+- Semi/weakly-supervised Learning, Data Augmentation in NLP
+- Information Extraction
 
 Publication
 ------
