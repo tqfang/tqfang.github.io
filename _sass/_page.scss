@@ -10,7 +10,7 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-  font-size: 14px;
+  font-size: 15px;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -22,12 +22,10 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(0.5 of 12);
-    font-size: 14px;
   }
 
   .page__inner-wrap {
     @include full();
-    font-size: 14px;
     .page__content,
     .page__meta,
     .page__share {
