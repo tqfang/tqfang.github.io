@@ -30,8 +30,8 @@ Publication
 
 2022
 
-- Hongming Zhang *, Xin Liu *, Haojie Pan *, Haowen Ke, Jiefu Ou, **Tianqing Fang**, and Yangqiu Song.       
-**ASER: Towards Large-scale Commonsense Knowledge Acquisition via Higher-order Selectional Preference over Eventualities.**              
+- Hongming Zhang\*, Xin Liu\*, Haojie Pan *, Haowen Ke, Jiefu Ou, **Tianqing Fang**, and Yangqiu Song.       
+**ASER: Towards Large-scale Commonsense Knowledge Acquisition via Higher-order Selectional Preference over Eventualities.**        
 *Artificial Intelligence,* 2022. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0004370222000807) [\[arxiv\]](https://arxiv.org/abs/2104.02137) [\[code\]](https://github.com/HKUST-KnowComp/ASER) [\[homepage\]](https://hkust-knowcomp.github.io/ASER)
 
 
