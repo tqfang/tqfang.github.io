@@ -35,7 +35,9 @@ Publication
 
 2022
 
-- **Tianqing Fang**, Quyet V. Do, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See. PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population. Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), 2022. [\[pdf\]](https://arxiv.org/abs/2210.07988) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).
+* **Tianqing Fang**, Quyet V. Do, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See. 
+PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population. 
+Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), 2022. [\[pdf\]](https://arxiv.org/abs/2210.07988) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).
 
 -  Ying Su, Zihao Wang, **Tianqing Fang**, Hongming Zhang, Yangqiu Song and Tong Zhang. MICO: A Multi-alternative Contrastive Learning Framework for Commonsense Knowledge Representation. Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), 2022. [\[pdf\]](https://arxiv.org/abs/2210.07570) [\[code\]](https://github.com/HKUST-KnowComp/MICO).
 
