@@ -22,6 +22,8 @@ Publication
 
 ### Preprint
 
+- **Tianqing Fang**, Wenxuan Zhou, Fangyu Liu, Hongming Zhang, Yangqiu Song, and Muhao Chen. **On-the-fly Denoising for Data Augmentation in Natural Language Understanding** 2022. [\[paper\]](https://arxiv.org/abs/2212.10558)
+
 - Mutian He, **Tianqing Fang**, Weiqi Wang, and Yangqiu Song.     
 **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.** 2022.     
 [\[paper\]](https://arxiv.org/pdf/2206.01532.pdf) [\[code\]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
