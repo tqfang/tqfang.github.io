@@ -22,6 +22,10 @@ Publication
 
 ### Preprint
 
+- **Tianqing Fang\*** and Quyet V. Do\* and Sehyun Choi and Weiqi Wang and Yangqiu Song.
+**CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
+[\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)
+
 - **Tianqing Fang**, Wenxuan Zhou, Fangyu Liu, Hongming Zhang, Yangqiu Song, and Muhao Chen.     
 **On-the-fly Denoising for Data Augmentation in Natural Language Understanding** 2022.     
 [\[paper\]](https://arxiv.org/abs/2212.10558)
