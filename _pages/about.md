@@ -27,11 +27,11 @@ Publication
 
 ### Preprint
 
-- **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.
+- **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
 [\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)
 
-- Chunkit Chan, Jiayang Cheng, Weiqi Wang, Yuxin Jiang, **Tianqing Fang**, Xin Liu, Yangqiu Song.
+- Chunkit Chan, Jiayang Cheng, Weiqi Wang, Yuxin Jiang, **Tianqing Fang**, Xin Liu, Yangqiu Song.        
 **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**, 2023
 [\[paper\]](https://arxiv.org/abs/2304.14827)
 
@@ -56,15 +56,13 @@ Publication
 
 2023
 
-- Weiqi Wang\*, **Tianqing Fang\***, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.
-**🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning**
-*Annual Meeting of the Association for Computational Linguistics (ACL),* 2023. 
-[To appear]
+- Weiqi Wang\*, **Tianqing Fang\***, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.        
+**🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning**        
+*Annual Meeting of the Association for Computational Linguistics (ACL),* 2023. [To appear]
 
-- Zhaowei Wang, Quyet V. Do, Hongming Zhang, Jiayao Zhang, Weiqi Wang, **Tianqing Fang**, Yangqiu Song, Ginny Y. Wong, Simon See
-**COLA: Contextualized Commonsense Causality Reasoning from the Causal Inference Perspective**
-*Annual Meeting of the Association for Computational Linguistics (ACL),* 2023. 
-[To appear]
+- Zhaowei Wang, Quyet V. Do, Hongming Zhang, Jiayao Zhang, Weiqi Wang, **Tianqing Fang**, Yangqiu Song, Ginny Y. Wong, Simon See        
+**COLA: Contextualized Commonsense Causality Reasoning from the Causal Inference Perspective**        
+*Annual Meeting of the Association for Computational Linguistics (ACL),* 2023. [To appear]
 
 
 2022
