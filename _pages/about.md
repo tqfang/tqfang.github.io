@@ -17,14 +17,23 @@ Research Interest
 - Semi/weakly-supervised Learning, Data Augmentation in NLP
 - Information Extraction
 
+News
+------
+- 2023.4 Two paper accepted to ACL 2023 main conference.
+- 2023.4 Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released.
+
 Publication
 ------
 
 ### Preprint
 
-- **Tianqing Fang\*** and Quyet V. Do\* and Sehyun Choi and Weiqi Wang and Yangqiu Song.
+- **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
 [\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)
+
+- Chunkit Chan, Jiayang Cheng, Weiqi Wang, Yuxin Jiang, **Tianqing Fang**, Xin Liu, Yangqiu Song.
+**ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**, 2023
+[\[paper\]](https://arxiv.org/abs/2304.14827)
 
 - **Tianqing Fang**, Wenxuan Zhou, Fangyu Liu, Hongming Zhang, Yangqiu Song, and Muhao Chen.     
 **On-the-fly Denoising for Data Augmentation in Natural Language Understanding** 2022.     
@@ -45,9 +54,22 @@ Publication
 
 ### Conference
 
+2023
+
+- Weiqi Wang\*, **Tianqing Fang\***, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.
+**🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning**
+*Annual Meeting of the Association for Computational Linguistics (ACL),* 2023. 
+[To appear]
+
+- Zhaowei Wang, Quyet V. Do, Hongming Zhang, Jiayao Zhang, Weiqi Wang, **Tianqing Fang**, Yangqiu Song, Ginny Y. Wong, Simon See
+**COLA: Contextualized Commonsense Causality Reasoning from the Causal Inference Perspective**
+*Annual Meeting of the Association for Computational Linguistics (ACL),* 2023. 
+[To appear]
+
+
 2022
 
-* **Tianqing Fang**, Quyet V. Do, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See.        
+- **Tianqing Fang**, Quyet V. Do, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See.        
 **PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population.**      
 *Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2022. [\[pdf\]](https://arxiv.org/abs/2210.07988) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).
 
