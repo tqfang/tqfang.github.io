@@ -19,8 +19,8 @@ Research Interest
 
 News
 ------
-- 2023.4 Two paper accepted to ACL 2023 main conference.
-- 2023.4 Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released.
+- 2023/5 Two paper accepted to ACL 2023 main conference.
+- 2023/4 Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released.
 
 Publication
 ------
@@ -58,11 +58,11 @@ Publication
 
 - Weiqi Wang\*, **Tianqing Fang\***, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.        
 **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning**        
-*Annual Meeting of the Association for Computational Linguistics (ACL),* 2023. [To appear]
+*Annual Meeting of the Association for Computational Linguistics (ACL),* 2023. [\[pdf\]](https://arxiv.org/abs/2305.04808) [\[code\]](https://github.com/HKUST-KnowComp/CAT).
 
 - Zhaowei Wang, Quyet V. Do, Hongming Zhang, Jiayao Zhang, Weiqi Wang, **Tianqing Fang**, Yangqiu Song, Ginny Y. Wong, Simon See        
 **COLA: Contextualized Commonsense Causality Reasoning from the Causal Inference Perspective**        
-*Annual Meeting of the Association for Computational Linguistics (ACL),* 2023. [To appear]
+*Annual Meeting of the Association for Computational Linguistics (ACL),* 2023. [\[pdf\]](https://arxiv.org/abs/2305.05191) [\[code\]](https://github.com/HKUST-KnowComp/COLA).
 
 
 2022
