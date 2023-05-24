@@ -30,7 +30,7 @@ Publication
 - Weiqi Wang\*, **Tianqing Fang\***, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.   
 CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering, 2023
 
-- Tianqing Fang, Zhaowei Wang, Wenxuan Zhou, Hongming Zhang, Yangqiu Song, Muhao Chen.       
+- **Tianqing Fang**, Zhaowei Wang, Wenxuan Zhou, Hongming Zhang, Yangqiu Song, Muhao Chen.       
 Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning, 2023
 
 - **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
