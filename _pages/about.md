@@ -28,12 +28,14 @@ Publication
 ### Preprint
 
 - Weiqi Wang\*, **Tianqing Fang\***, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.   
-CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering, 2023
+CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering, 2023     
+[\[paper\]](http://arxiv.org/abs/2305.14869) [\[code\]](https://github.com/HKUST-KnowComp/CAR)
 
 - **Tianqing Fang**, Zhaowei Wang, Wenxuan Zhou, Hongming Zhang, Yangqiu Song, Muhao Chen.       
-Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning, 2023
+Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning, 2023    
+[\[paper\]](https://arxiv.org/abs/2305.14970)
 
-- **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
+- **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wahttps://hkust.zoom.us/s/96100280984ng, Yangqiu Song.        
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
 [\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)
 
