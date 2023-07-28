@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianqing Fang" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Tianqing Fang"
-description              : &description "4th-year Ph.D. in HKUST"
+description              : &description "final-year Ph.D. in HKUST"
 url                      : https://tqfang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tqfang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tianqing Fang"
   avatar           : "profile-20211024.jpeg"
-  bio              : "4th-year Ph.D. in HKUST"
+  bio              : "final-year Ph.D. in HKUST"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           :

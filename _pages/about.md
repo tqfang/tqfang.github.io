@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 4-th year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology, supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/), and is now a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). Here is my [Curriculum Vitae (Oct 2022)](http://fangtq.com/files/tianqing_CV.pdf).
+I'm a final year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I'm visiting EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/). Previously, I was a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). Here is my [Curriculum Vitae (Oct 2022)](http://fangtq.com/files/tianqing_CV.pdf).
 
 Research Interest
 ------
@@ -19,6 +19,7 @@ Research Interest
 
 News
 ------
+- 2023/6 Invited to serve as the PC for AAAI 2024.
 - 2023/5 Two paper accepted to ACL 2023 main conference.
 - 2023/4 Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released.
 
@@ -28,11 +29,11 @@ Publication
 ### Preprint
 
 - Weiqi Wang\*, **Tianqing Fang\***, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.   
-**CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering, 2023**     
+**CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering**, 2023     
 [\[paper\]](http://arxiv.org/abs/2305.14869) [\[code\]](https://github.com/HKUST-KnowComp/CAR)
 
 - **Tianqing Fang**, Zhaowei Wang, Wenxuan Zhou, Hongming Zhang, Yangqiu Song, Muhao Chen.       
-**Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning, 2023**    
+**Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning**, 2023    
 [\[paper\]](https://arxiv.org/abs/2305.14970)
 
 - **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
@@ -44,11 +45,11 @@ Publication
 [\[paper\]](https://arxiv.org/abs/2304.14827)
 
 - **Tianqing Fang**, Wenxuan Zhou, Fangyu Liu, Hongming Zhang, Yangqiu Song, and Muhao Chen.     
-**On-the-fly Denoising for Data Augmentation in Natural Language Understanding** 2022.     
+**On-the-fly Denoising for Data Augmentation in Natural Language Understanding,** 2022.     
 [\[paper\]](https://arxiv.org/abs/2212.10558)
 
 - Mutian He, **Tianqing Fang**, Weiqi Wang, and Yangqiu Song.     
-**Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.** 2022.     
+**Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization,** 2022.     
 [\[paper\]](https://arxiv.org/pdf/2206.01532.pdf) [\[code\]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
 ### Journal
