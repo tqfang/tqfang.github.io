@@ -19,11 +19,11 @@ Research Interest
 
 News
 ------
-- 2023/10 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).
-- 2023/9 Invited to serve as the PC for SDM 2024.
-- 2023/6 Invited to serve as the PC for AAAI 2024.
-- 2023/5 Two paper accepted to ACL 2023 main conference.
-- 2023/4 Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released.
+- 10/2023: 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).
+- 9/2023: Invited to serve as the PC for SDM 2024.
+- 6/2023: Invited to serve as the PC for AAAI 2024.
+- 5/2023: Two paper accepted to ACL 2023 main conference.
+- 4/2023: Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released.
 
 Publication
 ------
@@ -72,7 +72,7 @@ Publication
 **KCTS: Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection**     
 *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (Main Conference),* [\[paper\]](https://arxiv.org/abs/2310.09044) [\[code\]](https://github.com/HKUST-KnowComp/Knowledge-Constrained-Decoding)
 
-- Haochen SHI, Weiqi Wang, **Tianqing Fang**, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song
+- Haochen SHI, Weiqi Wang, **Tianqing Fang**, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song     
 **QADYNAMICS: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering**      
 *Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2023.
 
