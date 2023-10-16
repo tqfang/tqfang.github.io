@@ -12,10 +12,14 @@ I'm a final year Ph.D. student at the Department of Computer Science and Enginee
 
 Research Interest
 ------
-- Natural Language Processing
+<!-- - Natural Language Processing
 - Commonsense Knowledge: Acquisition and Reasoning
 - Semi/weakly-supervised Learning, Data Augmentation in NLP
-- Information Extraction
+- Information Extraction -->
+
+- (Commonsense) Knowledge Acquisition: Commonsense knowledge acquisition at scale using information extraction ([ASER](https://hkust-knowcomp.github.io/ASER/html/index.html)) and knowledge base population ([DISCOS](https://arxiv.org/abs/2101.00154), [CKBP](https://arxiv.org/abs/2109.07679), [PseudoReasoner](https://arxiv.org/abs/2210.07988)); Conceptualization knowledge acquisition ([AbstractATOMIC](https://arxiv.org/abs/2206.01532), [CAT](https://arxiv.org/abs/2305.04808)).
+- Reasoning with knowledge for (Large) Language Models: Integration of (abstract) commonsense knowledge to language models ([CAR](http://arxiv.org/abs/2305.14869)). Knowledge constrained decoding for LLMs ([KCTS](https://arxiv.org/abs/2310.09044)). Knowledge conflicts detection and mitigation ([CDA](https://arxiv.org/abs/2305.14970)).
+- Machine Learning for NLP: Data denoising ([ODDA](https://arxiv.org/abs/2212.10558)), training dynamics (QAD), ...
 
 News
 ------
@@ -49,7 +53,7 @@ Publication
 
 - Mutian He, **Tianqing Fang**, Weiqi Wang, and Yangqiu Song.     
 **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization,** 2022.     
-[\[paper\]](https://arxiv.org/pdf/2206.01532.pdf) [\[code\]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
+[\[paper\]](https://arxiv.org/abs/2206.01532) [\[code\]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
 ### Journal
 
