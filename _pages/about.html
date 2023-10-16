@@ -1,8 +1,7 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="permalink" content="/">
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="author_profile" content="true">
+<meta name="permalink" content="/">
 <meta name="excerpt" content="&quot;About me&quot;">
-<meta name="google-site-verification" content="CJDcqgnPsg3Q9QPSzEMri1ANTP8742f3nvlnt3I_Tzg" />
-<meta name="redirect_from" content="">
-<meta name="author_profile" content="true"><style>body {
+<meta name="redirect_from" content=""><style>body {
   max-width: 980px;
   margin: 16px auto;
 }
@@ -504,8 +503,11 @@ body .markdown-body
   padding-bottom: 0.2em;
   margin: 0;
   font-size: 85%;
-  background-color: rgba(0,0,0,0.04);
   border-radius: 3px;
+}
+
+.markdown-body code:not(.highlight):not(.codehilite), .markdown-body samp {
+  background-color: rgba(0,0,0,0.04);
 }
 
 .markdown-body code:before,
@@ -536,8 +538,16 @@ body .markdown-body
   overflow: auto;
   font-size: 85%;
   line-height: 1.45;
-  background-color: #f7f7f7;
+}
+
+.markdown-body .codehilite,
+.markdown-body .highlight,
+.markdown-body pre {
   border-radius: 3px;
+}
+
+.markdown-body :not(.highlight) > pre {
+  background-color: #f7f7f7;
 }
 
 .markdown-body .codehilite pre,
@@ -1007,7 +1017,7 @@ body .markdown-body
   }
 }
 </style><style>/*GitHub*/
-.highlight {background-color:#fff;color:#333333;}
+.highlight {background-color:#f7f7f7;color:#333333;}
 .highlight .hll {background-color:#ffffcc;}
 .highlight .c{color:#999988;font-style:italic}
 .highlight .err{color:#a61717;background-color:#e3d2d2}
@@ -1074,7 +1084,7 @@ body .markdown-body
 <li>/about.html</li>
 </ul>
 <hr />
-<p>I&rsquo;m a 4-th year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology, supervised by <a href="https://cse.hkust.edu.hk/~yqsong/">Prof. Yangqiu Song</a>, and is now a visiting research scholar at University of Southern California, working with Prof. <a href="https://muhaochen.github.io/">Muhao Chen</a>. I received my B.E. degree from Zhejiang University in 2019, supervised by <a href="http://yangy.org/">Prof. Yang Yang</a>. Here is my <a href="http://fangtq.com/files/tianqing_CV.pdf">Curriculum Vitae (Oct 2022)</a>.</p>
+<p>I&rsquo;m a final year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST), supervised by <a href="https://cse.hkust.edu.hk/~yqsong/">Prof. Yangqiu Song</a>. I&rsquo;m visiting EPFL, working with Prof. <a href="https://atcbosselut.github.io/">Antoine Bosselut</a>. Previously, I was a visiting research scholar at University of Southern California, working with Prof. <a href="https://muhaochen.github.io/">Muhao Chen</a>. I received my B.E. degree from Zhejiang University in 2019, supervised by <a href="http://yangy.org/">Prof. Yang Yang</a>. Here is my <a href="http://fangtq.com/files/tianqing_CV.pdf">Curriculum Vitae (Oct 2022)</a>.</p>
 <h2 id="research-interest">Research Interest<a class="headerlink" href="#research-interest" title="Permanent link"></a></h2>
 <ul>
 <li>Natural Language Processing</li>
@@ -1084,30 +1094,38 @@ body .markdown-body
 </ul>
 <h2 id="news">News<a class="headerlink" href="#news" title="Permanent link"></a></h2>
 <ul>
-<li>2023.4 Two paper accepted to ACL 2023 main conference.</li>
-<li>2023.4 Preprints about <a href="https://arxiv.org/abs/2304.14827">ChatGPT on discourse relations</a> and an updated benchmark of <a href="https://arxiv.org/abs/2304.10392">CSKB Population</a> are released.</li>
+<li>2023/10 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).</li>
+<li>2023/9 Invited to serve as the PC for SDM 2024.</li>
+<li>2023/6 Invited to serve as the PC for AAAI 2024.</li>
+<li>2023/5 Two paper accepted to ACL 2023 main conference.</li>
+<li>2023/4 Preprints about <a href="https://arxiv.org/abs/2304.14827">ChatGPT on discourse relations</a> and an updated benchmark of <a href="https://arxiv.org/abs/2304.10392">CSKB Population</a> are released.</li>
 </ul>
 <h2 id="publication">Publication<a class="headerlink" href="#publication" title="Permanent link"></a></h2>
 <h3 id="preprint">Preprint<a class="headerlink" href="#preprint" title="Permanent link"></a></h3>
 <ul>
 <li>
-<p><strong>Tianqing Fang*</strong>, Quyet V. Do*, Sehyun Choi, Weiqi Wang, Yangqiu Song.
+<p><strong>Tianqing Fang</strong>, Zhaowei Wang, Wenxuan Zhou, Hongming Zhang, Yangqiu Song, Muhao Chen.     <br />
+<strong>Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning</strong>, 2023  <br />
+<a href="https://arxiv.org/abs/2305.14970">[paper]</a></p>
+</li>
+<li>
+<p><strong>Tianqing Fang*</strong>, Quyet V. Do*, Sehyun Choi, Weiqi Wang, Yangqiu Song.      <br />
 <strong>CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population</strong>, 2023
 <a href="https://arxiv.org/abs/2304.10392">[paper]</a> <a href="https://github.com/HKUST-KnowComp/CSKB-Population/">[code&amp;data]</a></p>
 </li>
 <li>
-<p>Chunkit Chan, Jiayang Cheng, Weiqi Wang, Yuxin Jiang, <strong>Tianqing Fang</strong>, Xin Liu, Yangqiu Song.
+<p>Chunkit Chan, Jiayang Cheng, Weiqi Wang, Yuxin Jiang, <strong>Tianqing Fang</strong>, Xin Liu, Yangqiu Song.      <br />
 <strong>ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations</strong>, 2023
 <a href="https://arxiv.org/abs/2304.14827">[paper]</a></p>
 </li>
 <li>
 <p><strong>Tianqing Fang</strong>, Wenxuan Zhou, Fangyu Liu, Hongming Zhang, Yangqiu Song, and Muhao Chen.   <br />
-<strong>On-the-fly Denoising for Data Augmentation in Natural Language Understanding</strong> 2022.   <br />
+<strong>On-the-fly Denoising for Data Augmentation in Natural Language Understanding,</strong> 2022.   <br />
 <a href="https://arxiv.org/abs/2212.10558">[paper]</a></p>
 </li>
 <li>
 <p>Mutian He, <strong>Tianqing Fang</strong>, Weiqi Wang, and Yangqiu Song.   <br />
-<strong>Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.</strong> 2022.   <br />
+<strong>Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization,</strong> 2022.   <br />
 <a href="https://arxiv.org/pdf/2206.01532.pdf">[paper]</a> <a href="https://github.com/HKUST-KnowComp/atomic-conceptualization">[code]</a></p>
 </li>
 </ul>
@@ -1120,8 +1138,28 @@ body .markdown-body
 </ul>
 <h3 id="conference">Conference<a class="headerlink" href="#conference" title="Permanent link"></a></h3>
 <p>2023</p>
-<p>Weiqi Wang*, <strong>Tianqing Fang*</strong>, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.
-CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning</p>
+<ul>
+<li>
+<p>Weiqi Wang*, <strong>Tianqing Fang*</strong>, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut. <br />
+<strong>CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering</strong>, 2023   <br />
+<a href="http://arxiv.org/abs/2305.14869">[paper]</a> <a href="https://github.com/HKUST-KnowComp/CAR">[code]</a></p>
+</li>
+<li>
+<p>Sehyun Choi, Tianqing Fang
+KCTS: Knowledge-Constrained Tree Search Decoding with
+Token-Level Hallucination Detection</p>
+</li>
+<li>
+<p>Weiqi Wang*, <strong>Tianqing Fang*</strong>, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.      <br />
+<strong>🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning</strong>      <br />
+<em>Annual Meeting of the Association for Computational Linguistics (ACL),</em> 2023. <a href="https://arxiv.org/abs/2305.04808">[pdf]</a> <a href="https://github.com/HKUST-KnowComp/CAT">[code]</a>.</p>
+</li>
+<li>
+<p>Zhaowei Wang, Quyet V. Do, Hongming Zhang, Jiayao Zhang, Weiqi Wang, <strong>Tianqing Fang</strong>, Yangqiu Song, Ginny Y. Wong, Simon See      <br />
+<strong>COLA: Contextualized Commonsense Causality Reasoning from the Causal Inference Perspective</strong>      <br />
+<em>Annual Meeting of the Association for Computational Linguistics (ACL),</em> 2023. <a href="https://arxiv.org/abs/2305.05191">[pdf]</a> <a href="https://github.com/HKUST-KnowComp/COLA">[code]</a>.</p>
+</li>
+</ul>
 <p>2022</p>
 <ul>
 <li>

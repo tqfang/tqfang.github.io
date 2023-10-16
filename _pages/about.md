@@ -19,6 +19,8 @@ Research Interest
 
 News
 ------
+- 2023/10 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).
+- 2023/9 Invited to serve as the PC for SDM 2024.
 - 2023/6 Invited to serve as the PC for AAAI 2024.
 - 2023/5 Two paper accepted to ACL 2023 main conference.
 - 2023/4 Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released.
@@ -28,9 +30,6 @@ Publication
 
 ### Preprint
 
-- Weiqi Wang\*, **Tianqing Fang\***, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.   
-**CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering**, 2023     
-[\[paper\]](http://arxiv.org/abs/2305.14869) [\[code\]](https://github.com/HKUST-KnowComp/CAR)
 
 - **Tianqing Fang**, Zhaowei Wang, Wenxuan Zhou, Hongming Zhang, Yangqiu Song, Muhao Chen.       
 **Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning**, 2023    
@@ -64,6 +63,27 @@ Publication
 ### Conference
 
 2023
+
+- Weiqi Wang\*, **Tianqing Fang\***, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.   
+**CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering**, 2023     
+*Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2023. [\[paper\]](http://arxiv.org/abs/2305.14869) [\[code\]](https://github.com/HKUST-KnowComp/CAR)
+
+- Sehyun Choi, **Tianqing Fang**, Zhaowei Wang, Yangqiu Song   
+**KCTS: Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection**     
+*Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (Main Conference),* [\[paper\]](https://arxiv.org/abs/2310.09044) [\[code\]](https://github.com/HKUST-KnowComp/Knowledge-Constrained-Decoding)
+
+- Haochen SHI, Weiqi Wang, **Tianqing Fang**, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song
+**QADYNAMICS: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering**      
+*Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2023.
+
+- Jiayang Cheng, Lin Qiu, Tsz Ho CHAN, **Tianqing Fang**, Weiqi Wang, Chunkit Chan, Qipeng Guo, Hongming Zhang, Yangqiu Song, Yue Zhang, Zheng Zhang     
+**STORYANALOGY: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**    
+*Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (Main Conference),*  
+
+- Shizhe Diao, Yongyu Lei, Liangming Pan, **Tianqing Fang**, Wangchunshu Zhou, Sedrick Scott Keh, Min-Yen Kan, Tong Zhang    
+**Doolittle: Benchmarks and Corpora for Academic Writing Formalization**     
+*Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (Main Conference),*   
+
 
 - Weiqi Wang\*, **Tianqing Fang\***, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.        
 **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning**        
