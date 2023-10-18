@@ -19,7 +19,7 @@ Research Interest
 
 - **Knowledge Acquisition:** Commonsense knowledge acquisition at scale using information extraction ([ASER](https://hkust-knowcomp.github.io/ASER/html/index.html)) and knowledge base population ([DISCOS](https://arxiv.org/abs/2101.00154), [CKBP](https://arxiv.org/abs/2109.07679), [PseudoReasoner](https://arxiv.org/abs/2210.07988)); Conceptualization knowledge acquisition ([AbstractATOMIC](https://arxiv.org/abs/2206.01532), [CAT](https://arxiv.org/abs/2305.04808)).
 - **Reasoning with knowledge for (Large) Language Models:** Integration of (abstract) commonsense knowledge to language models ([CAR](http://arxiv.org/abs/2305.14869)). Knowledge constrained decoding for LLMs ([KCTS](https://arxiv.org/abs/2310.09044)). Knowledge conflicts detection and mitigation ([CDA](https://arxiv.org/abs/2305.14970)).
-- **Machine Learning for NLP:** Data denoising ([ODDA](https://arxiv.org/abs/2212.10558)), training dynamics (QAD), ...
+- **Machine Learning for NLP:** Data denoising ([ODDA](https://arxiv.org/abs/2212.10558)), training dynamics ([QAD](https://arxiv.org/abs/2310.11303)), ...
 
 News
 ------
@@ -86,7 +86,7 @@ Publication
 
 - Haochen SHI, Weiqi Wang, **Tianqing Fang**, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song     
 **QADYNAMICS: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering**      
-*Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2023. [\[paper\]](https://arxiv.org/abs/2310.11303)[\[code\]](https://github.com/HKUST-KnowComp/QaDynamics)
+*Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2023. [\[paper\]](https://arxiv.org/abs/2310.11303) [\[code\]](https://github.com/HKUST-KnowComp/QaDynamics)
 
 
 - Weiqi Wang\*, **Tianqing Fang\***, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.        
