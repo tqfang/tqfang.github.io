@@ -10,12 +10,12 @@ redirect_from:
 
 I'm a final year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I'm visiting EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/). Previously, I was a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). Here is my [Curriculum Vitae (Oct 2022)](http://fangtq.com/files/tianqing_CV.pdf).
 
+**I'm actively seeking a postdoc position worldwide!**
+
+**I will attend EMNLP 2023 in 🇸🇬Singapore in person. Feel free to reach out to me for a chat☕️.**
+
 Research Interest
 ------
-<!-- - Natural Language Processing
-- Commonsense Knowledge: Acquisition and Reasoning
-- Semi/weakly-supervised Learning, Data Augmentation in NLP
-- Information Extraction -->
 
 - **Knowledge Acquisition:** Commonsense knowledge acquisition at scale using information extraction ([ASER](https://hkust-knowcomp.github.io/ASER/html/index.html)) and knowledge base population ([DISCOS](https://arxiv.org/abs/2101.00154), [CKBP](https://arxiv.org/abs/2109.07679), [PseudoReasoner](https://arxiv.org/abs/2210.07988)); Conceptualization knowledge acquisition ([AbstractATOMIC](https://arxiv.org/abs/2206.01532), [CAT](https://arxiv.org/abs/2305.04808)).
 - **Reasoning with knowledge for (Large) Language Models:** Integration of (abstract) commonsense knowledge to language models ([CAR](http://arxiv.org/abs/2305.14869)). Knowledge constrained decoding for LLMs ([KCTS](https://arxiv.org/abs/2310.09044)). Knowledge conflicts detection and mitigation ([CDA](https://arxiv.org/abs/2305.14970)).
@@ -23,6 +23,7 @@ Research Interest
 
 News
 ------
+- 10/2023: Invited to serve as the PC for COLING-LREC 2024, and the reviewer for EACL 2023 (ARR).
 - 10/2023: 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).
 - 9/2023: Invited to serve as the PC for SDM 2024.
 - 6/2023: Invited to serve as the PC for AAAI 2024.
@@ -74,11 +75,11 @@ Publication
 
 - Jiayang Cheng, Lin Qiu, Tsz Ho CHAN, **Tianqing Fang**, Weiqi Wang, Chunkit Chan, Qipeng Guo, Hongming Zhang, Yangqiu Song, Yue Zhang, Zheng Zhang     
 **STORYANALOGY: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**    
-*Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (Main Conference),*  
+*Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (Main Conference),* [\[paper\]](https://arxiv.org/abs/2310.12874) [\[code&data\]](https://github.com/loginaway/StoryAnalogy)
 
 - Shizhe Diao, Yongyu Lei, Liangming Pan, **Tianqing Fang**, Wangchunshu Zhou, Sedrick Scott Keh, Min-Yen Kan, Tong Zhang    
 **Doolittle: Benchmarks and Corpora for Academic Writing Formalization**     
-*Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (Main Conference),*   
+*Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (Main Conference),* [\[paper\]](https://openreview.net/attachment?id=B3rTZovgaA&name=pdf) [\[code&data\]](https://github.com/shizhediao/Doolittle)  
 
 - Weiqi Wang\*, **Tianqing Fang\***, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.   
 **CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering**, 2023     
@@ -102,7 +103,8 @@ Publication
 
 - **Tianqing Fang**, Quyet V. Do, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See.        
 **PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population.**      
-*Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2022. [\[pdf\]](https://arxiv.org/abs/2210.07988) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).
+*Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2022. [\[pdf\]](https://arxiv.org/abs/2210.07988) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).    
+*Internship work at NVIDIA*
 
 -  Ying Su, Zihao Wang, **Tianqing Fang**, Hongming Zhang, Yangqiu Song and Tong Zhang.       
 **MICO: A Multi-alternative Contrastive Learning Framework for Commonsense Knowledge Representation.**       
@@ -138,15 +140,19 @@ Publication
 
 Awards
 ------
+- HKUST Overseas Research Award (2023)
+- HKUST RedBird Academic Excellence Award for Continuing PhD Students in 2022/23 (2023)
 - HKUST RedBird Academic Excellence Award for Continuing PhD Students in 2021/22 (2022)
 - Hong Kong Ph.D. Fellowship (2019-2023)
 - Special Scholarship for Undergraduate Students in Zhejiang University (one of the top honor in ZJU) (2018)
+- Provincial Scholarship (top 5%, ZJU, 2018)
 - 1st Place and MATLAB Innovation Award (1st/36K+) in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/) (2017)
+- Provincial Scholarship (top 5%, ZJU, 2017)
 - National Scholarship (top 3%, ZJU, 2016)
-
 
 Teaching
 ------
+- MSBD 5018: Natural Language Processing (Spring 2022)
 - COMP5222/MATH5471: Statistical Learning Models for Text and Graph Data. (Fall 2021)
 - MSBD6000H: Natural Language Processing. (Spring 2021)
 - COMP4901K/MATH4824B: Machine Learning for Natural Language Processing. (Fall 2020)
@@ -159,8 +165,7 @@ Academic Service
 
 Miscs:
 -----
-I take pictures on weekends. Check out the highlights on [unsplash](https://unsplash.com/@fangtq229) and more photos on [flickr](https://www.flickr.com/photos/193147267@N02/albums).
-
+I take pictures on weekends. Check out the highlights on [unsplash](https://unsplash.com/@fangtq229).
 
 <a href="https://clustrmaps.com/site/1am85"  title="Visit tracker" style="width: 250px"><img src="//www.clustrmaps.com/map_v2.png?d=1rGYEOu6BaCxnSv3lwCWOBjlq9pFF_8iT_upuStA-JY&cl=ffffff" /></a>
 

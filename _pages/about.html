@@ -1,7 +1,7 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="author_profile" content="true">
-<meta name="permalink" content="/">
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="redirect_from" content="">
+<meta name="author_profile" content="true">
 <meta name="excerpt" content="&quot;About me&quot;">
-<meta name="redirect_from" content=""><style>body {
+<meta name="permalink" content="/"><style>body {
   max-width: 980px;
   margin: 16px auto;
 }
@@ -1085,20 +1085,25 @@ body .markdown-body
 </ul>
 <hr />
 <p>I&rsquo;m a final year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST), supervised by <a href="https://cse.hkust.edu.hk/~yqsong/">Prof. Yangqiu Song</a>. I&rsquo;m visiting EPFL, working with Prof. <a href="https://atcbosselut.github.io/">Antoine Bosselut</a>. Previously, I was a visiting research scholar at University of Southern California, working with Prof. <a href="https://muhaochen.github.io/">Muhao Chen</a>. I received my B.E. degree from Zhejiang University in 2019, supervised by <a href="http://yangy.org/">Prof. Yang Yang</a>. Here is my <a href="http://fangtq.com/files/tianqing_CV.pdf">Curriculum Vitae (Oct 2022)</a>.</p>
+<p>I&rsquo;m looking for </p>
 <h2 id="research-interest">Research Interest<a class="headerlink" href="#research-interest" title="Permanent link"></a></h2>
+<!-- - Natural Language Processing
+- Commonsense Knowledge: Acquisition and Reasoning
+- Semi/weakly-supervised Learning, Data Augmentation in NLP
+- Information Extraction -->
+
 <ul>
-<li>Natural Language Processing</li>
-<li>Commonsense Knowledge: Acquisition and Reasoning</li>
-<li>Semi/weakly-supervised Learning, Data Augmentation in NLP</li>
-<li>Information Extraction</li>
+<li><strong>Knowledge Acquisition:</strong> Commonsense knowledge acquisition at scale using information extraction (<a href="https://hkust-knowcomp.github.io/ASER/html/index.html">ASER</a>) and knowledge base population (<a href="https://arxiv.org/abs/2101.00154">DISCOS</a>, <a href="https://arxiv.org/abs/2109.07679">CKBP</a>, <a href="https://arxiv.org/abs/2210.07988">PseudoReasoner</a>); Conceptualization knowledge acquisition (<a href="https://arxiv.org/abs/2206.01532">AbstractATOMIC</a>, <a href="https://arxiv.org/abs/2305.04808">CAT</a>).</li>
+<li><strong>Reasoning with knowledge for (Large) Language Models:</strong> Integration of (abstract) commonsense knowledge to language models (<a href="http://arxiv.org/abs/2305.14869">CAR</a>). Knowledge constrained decoding for LLMs (<a href="https://arxiv.org/abs/2310.09044">KCTS</a>). Knowledge conflicts detection and mitigation (<a href="https://arxiv.org/abs/2305.14970">CDA</a>).</li>
+<li><strong>Machine Learning for NLP:</strong> Data denoising (<a href="https://arxiv.org/abs/2212.10558">ODDA</a>), training dynamics (<a href="https://arxiv.org/abs/2310.11303">QAD</a>), &hellip;</li>
 </ul>
 <h2 id="news">News<a class="headerlink" href="#news" title="Permanent link"></a></h2>
 <ul>
-<li>2023/10 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).</li>
-<li>2023/9 Invited to serve as the PC for SDM 2024.</li>
-<li>2023/6 Invited to serve as the PC for AAAI 2024.</li>
-<li>2023/5 Two paper accepted to ACL 2023 main conference.</li>
-<li>2023/4 Preprints about <a href="https://arxiv.org/abs/2304.14827">ChatGPT on discourse relations</a> and an updated benchmark of <a href="https://arxiv.org/abs/2304.10392">CSKB Population</a> are released.</li>
+<li>10/2023: 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).</li>
+<li>9/2023: Invited to serve as the PC for SDM 2024.</li>
+<li>6/2023: Invited to serve as the PC for AAAI 2024.</li>
+<li>5/2023: Two paper accepted to ACL 2023 main conference.</li>
+<li>4/2023: Preprints about <a href="https://arxiv.org/abs/2304.14827">ChatGPT on discourse relations</a> and an updated benchmark of <a href="https://arxiv.org/abs/2304.10392">CSKB Population</a> are released.</li>
 </ul>
 <h2 id="publication">Publication<a class="headerlink" href="#publication" title="Permanent link"></a></h2>
 <h3 id="preprint">Preprint<a class="headerlink" href="#preprint" title="Permanent link"></a></h3>
@@ -1126,7 +1131,7 @@ body .markdown-body
 <li>
 <p>Mutian He, <strong>Tianqing Fang</strong>, Weiqi Wang, and Yangqiu Song.   <br />
 <strong>Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization,</strong> 2022.   <br />
-<a href="https://arxiv.org/pdf/2206.01532.pdf">[paper]</a> <a href="https://github.com/HKUST-KnowComp/atomic-conceptualization">[code]</a></p>
+<a href="https://arxiv.org/abs/2206.01532">[paper]</a> <a href="https://github.com/HKUST-KnowComp/atomic-conceptualization">[code]</a></p>
 </li>
 </ul>
 <h3 id="journal">Journal<a class="headerlink" href="#journal" title="Permanent link"></a></h3>
@@ -1140,14 +1145,29 @@ body .markdown-body
 <p>2023</p>
 <ul>
 <li>
-<p>Weiqi Wang*, <strong>Tianqing Fang*</strong>, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut. <br />
-<strong>CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering</strong>, 2023   <br />
-<a href="http://arxiv.org/abs/2305.14869">[paper]</a> <a href="https://github.com/HKUST-KnowComp/CAR">[code]</a></p>
+<p>Sehyun Choi, <strong>Tianqing Fang</strong>, Zhaowei Wang, Yangqiu Song <br />
+<strong>KCTS: Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection</strong>   <br />
+<em>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (Main Conference),</em> <a href="https://arxiv.org/abs/2310.09044">[paper]</a> <a href="https://github.com/HKUST-KnowComp/Knowledge-Constrained-Decoding">[code]</a></p>
 </li>
 <li>
-<p>Sehyun Choi, Tianqing Fang
-KCTS: Knowledge-Constrained Tree Search Decoding with
-Token-Level Hallucination Detection</p>
+<p>Jiayang Cheng, Lin Qiu, Tsz Ho CHAN, <strong>Tianqing Fang</strong>, Weiqi Wang, Chunkit Chan, Qipeng Guo, Hongming Zhang, Yangqiu Song, Yue Zhang, Zheng Zhang   <br />
+<strong>STORYANALOGY: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding</strong>  <br />
+<em>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (Main Conference),</em>  </p>
+</li>
+<li>
+<p>Shizhe Diao, Yongyu Lei, Liangming Pan, <strong>Tianqing Fang</strong>, Wangchunshu Zhou, Sedrick Scott Keh, Min-Yen Kan, Tong Zhang  <br />
+<strong>Doolittle: Benchmarks and Corpora for Academic Writing Formalization</strong>   <br />
+<em>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (Main Conference),</em>   </p>
+</li>
+<li>
+<p>Weiqi Wang*, <strong>Tianqing Fang*</strong>, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut. <br />
+<strong>CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering</strong>, 2023   <br />
+<em>Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)</em>, 2023. <a href="http://arxiv.org/abs/2305.14869">[paper]</a> <a href="https://github.com/HKUST-KnowComp/CAR">[code]</a></p>
+</li>
+<li>
+<p>Haochen SHI, Weiqi Wang, <strong>Tianqing Fang</strong>, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song   <br />
+<strong>QADYNAMICS: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering</strong>    <br />
+<em>Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)</em>, 2023. <a href="https://arxiv.org/abs/2310.11303">[paper]</a> <a href="https://github.com/HKUST-KnowComp/QaDynamics">[code]</a></p>
 </li>
 <li>
 <p>Weiqi Wang*, <strong>Tianqing Fang*</strong>, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.      <br />
