@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I'm visiting EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/). Previously, I was a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). Here is my [Curriculum Vitae (Oct 2022)](http://fangtq.com/files/tianqing_CV.pdf).
+I'm a final year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I'm visiting EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/). Previously, I was a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). Here is my [Curriculum Vitae (Oct 2023)](http://fangtq.com/files/tianqing_CV.pdf).
 
 **I'm actively seeking a postdoc position worldwide!**
 
@@ -165,7 +165,7 @@ Academic Service
 
 Miscs:
 -----
-I take pictures on weekends. Check out the highlights on [unsplash](https://unsplash.com/@fangtq229).
+I take pictures on weekends. Check out the highlights on [unsplash](https://unsplash.com/@tqfang).
 
 <a href="https://clustrmaps.com/site/1am85"  title="Visit tracker" style="width: 250px"><img src="//www.clustrmaps.com/map_v2.png?d=1rGYEOu6BaCxnSv3lwCWOBjlq9pFF_8iT_upuStA-JY&cl=ffffff" /></a>
 
