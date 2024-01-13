@@ -12,8 +12,6 @@ I'm a final year Ph.D. student at the Department of Computer Science and Enginee
 
 **I'm actively seeking a postdoc position worldwide!**
 
-**I will attend EMNLP 2023 in 🇸🇬Singapore in person. Feel free to reach out to me for a chat☕️.**
-
 Research Interest
 ------
 
