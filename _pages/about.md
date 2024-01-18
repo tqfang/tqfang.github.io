@@ -21,6 +21,8 @@ Research Interest
 
 News
 ------
+- 1/2024: 3 papers accepted to EACL 2024! 
+- 1/2024: Invited to serve as PC for NAACL 2024 and IJCAI 2024.
 - 10/2023: Invited to serve as the PC for COLING-LREC 2024, and the reviewer for EACL 2023 (ARR).
 - 10/2023: 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).
 - 9/2023: Invited to serve as the PC for SDM 2024.
@@ -42,14 +44,6 @@ Publication
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
 [\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)
 
-- Chunkit Chan, Jiayang Cheng, Weiqi Wang, Yuxin Jiang, **Tianqing Fang**, Xin Liu, Yangqiu Song.        
-**ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**, 2023
-[\[paper\]](https://arxiv.org/abs/2304.14827)
-
-- **Tianqing Fang**, Wenxuan Zhou, Fangyu Liu, Hongming Zhang, Yangqiu Song, and Muhao Chen.     
-**On-the-fly Denoising for Data Augmentation in Natural Language Understanding,** 2022.     
-[\[paper\]](https://arxiv.org/abs/2212.10558)
-
 - Mutian He, **Tianqing Fang**, Weiqi Wang, and Yangqiu Song.     
 **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization,** 2022.     
 [\[paper\]](https://arxiv.org/abs/2206.01532) [\[code\]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
@@ -64,6 +58,23 @@ Publication
 
 
 ### Conference
+
+
+2024
+
+- **Tianqing Fang**, Wenxuan Zhou, Fangyu Liu, Hongming Zhang, Yangqiu Song, and Muhao Chen.     
+**On-the-fly Denoising for Data Augmentation in Natural Language Understanding,** Findings of EACL 2024.     
+[\[paper\]](https://arxiv.org/abs/2212.10558)
+
+- Chunkit Chan, Jiayang Cheng, Weiqi Wang, Yuxin Jiang, **Tianqing Fang**, Xin Liu, Yangqiu Song.        
+**ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**, Findings of EACL 2024     
+[\[paper\]](https://arxiv.org/abs/2304.14827)
+
+- Quyet V. Do, **Tianqing Fang**, Shizhe Diao, Zhaowei Wang, Yangqiu Song.        
+**ConstraintChecker: A Plugin for Large Language Models to Reason on Commonsense Knowledge Bases**, EACL 2024     
+[\[paper\]]()
+
+
 
 2023
 
