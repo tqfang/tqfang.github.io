@@ -75,7 +75,7 @@ Publication
 [\[paper\]]()
 
 - Xiongye Xiao, Gengshuo Liu, Gaurav Gupta, Defu Cao, Shixuan Li, Yaxing Li, **Tianqing Fang**, Mingxi Cheng, Paul Bogdan.       
-**Neuro-Inspired Hierarchical Multimodal Learning**       
+**Neuro-Inspired Hierarchical Multimodal Learning**, ICLR 2024       
 [\[paper\]](https://openreview.net/forum?id=Z9AZsU1Tju)
 
 2023
