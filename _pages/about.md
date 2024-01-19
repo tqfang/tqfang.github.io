@@ -21,7 +21,7 @@ Research Interest
 
 News
 ------
-- 1/2024: 3 papers accepted to EACL 2024! 
+- 1/2024: 3 papers accepted to EACL 2024 and 1 paper accepted to ICLR 2024!
 - 1/2024: Invited to serve as PC for NAACL 2024 and IJCAI 2024.
 - 10/2023: Invited to serve as the PC for COLING-LREC 2024, and the reviewer for EACL 2023 (ARR).
 - 10/2023: 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).
@@ -74,7 +74,9 @@ Publication
 **ConstraintChecker: A Plugin for Large Language Models to Reason on Commonsense Knowledge Bases**, EACL 2024     
 [\[paper\]]()
 
-
+- Xiongye Xiao, Gengshuo Liu, Gaurav Gupta, Defu Cao, Shixuan Li, Yaxing Li, **Tianqing Fang**, Mingxi Cheng, Paul Bogdan.       
+**Neuro-Inspired Hierarchical Multimodal Learning**       
+[\[paper\]](https://openreview.net/forum?id=Z9AZsU1Tju)
 
 2023
 
