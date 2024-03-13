@@ -21,7 +21,8 @@ Research Interest
 
 News
 ------
-- 
+- 3/2024: 2 papers accepted to Findings of NAACL 2024!
+- 2/2024: Invited as Area Chair of ACL 2024.
 - 1/2024: 3 papers accepted to EACL 2024 and 1 paper accepted to ICLR 2024!
 - 1/2024: Invited to serve as PC for NAACL 2024 and IJCAI 2024.
 - 10/2023: Invited to serve as the PC for COLING-LREC 2024, and the reviewer for EACL 2023 (ARR).
