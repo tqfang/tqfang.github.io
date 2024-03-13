@@ -21,6 +21,7 @@ Research Interest
 
 News
 ------
+- 
 - 1/2024: 3 papers accepted to EACL 2024 and 1 paper accepted to ICLR 2024!
 - 1/2024: Invited to serve as PC for NAACL 2024 and IJCAI 2024.
 - 10/2023: Invited to serve as the PC for COLING-LREC 2024, and the reviewer for EACL 2023 (ARR).
@@ -36,9 +37,7 @@ Publication
 ### Preprint
 
 
-- **Tianqing Fang**, Zhaowei Wang, Wenxuan Zhou, Hongming Zhang, Yangqiu Song, Muhao Chen.       
-**Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning**, 2023    
-[\[paper\]](https://arxiv.org/abs/2305.14970)
+
 
 - **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
@@ -62,21 +61,29 @@ Publication
 
 2024
 
+- **Tianqing Fang**, Zhaowei Wang, Wenxuan Zhou, Hongming Zhang, Yangqiu Song, Muhao Chen.       
+**Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning**,      
+*Findings of NAACL 2024* [\[paper\]](https://arxiv.org/abs/2305.14970)
+
+- Zhaowei Wang, Haochen Shi, Weiqi Wang, **Tianqing Fang**, Hongming Zhang, Sehyun Choi, Xin Liu, Yangqiu Song       
+**AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph**        
+*Findings of NAACL 2024* [\[paper\]](https://arxiv.org/abs/2311.09174)
+
 - **Tianqing Fang**, Wenxuan Zhou, Fangyu Liu, Hongming Zhang, Yangqiu Song, and Muhao Chen.     
-**On-the-fly Denoising for Data Augmentation in Natural Language Understanding,** Findings of EACL 2024.     
-[\[paper\]](https://arxiv.org/abs/2212.10558)
+**On-the-fly Denoising for Data Augmentation in Natural Language Understanding,**      
+*Findings of EACL 2024* [\[paper\]](https://arxiv.org/abs/2212.10558)
 
 - Chunkit Chan, Jiayang Cheng, Weiqi Wang, Yuxin Jiang, **Tianqing Fang**, Xin Liu, Yangqiu Song.        
-**ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**, Findings of EACL 2024     
-[\[paper\]](https://arxiv.org/abs/2304.14827)
+**ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**,       
+*Findings of EACL 2024* [\[paper\]](https://arxiv.org/abs/2304.14827)
 
 - Quyet V. Do, **Tianqing Fang**, Shizhe Diao, Zhaowei Wang, Yangqiu Song.        
-**ConstraintChecker: A Plugin for Large Language Models to Reason on Commonsense Knowledge Bases**, EACL 2024     
-[\[paper\]]()
+**ConstraintChecker: A Plugin for Large Language Models to Reason on Commonsense Knowledge Bases**      
+*EACL 2024* [\[paper\]](https://arxiv.org/abs/2401.14003)
 
 - Xiongye Xiao, Gengshuo Liu, Gaurav Gupta, Defu Cao, Shixuan Li, Yaxing Li, **Tianqing Fang**, Mingxi Cheng, Paul Bogdan.       
-**Neuro-Inspired Hierarchical Multimodal Learning**, ICLR 2024       
-[\[paper\]](https://openreview.net/forum?id=Z9AZsU1Tju)
+**Neuro-Inspired Hierarchical Multimodal Learning**,          
+*ICLR 2024* [\[paper\]](https://openreview.net/forum?id=Z9AZsU1Tju)
 
 2023
 
