@@ -38,7 +38,9 @@ Publication
 ### Preprint
 
 
-
+- **Tianqing Fang**, Zeming Chen, Yangqiu Song, Antoine Bosselut.        
+**Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs**       
+[\[paper\]](https://arxiv.org/abs/2403.07398)
 
 - **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
