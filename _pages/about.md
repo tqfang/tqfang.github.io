@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I'm visiting EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/). Previously, I was a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). Here is my [Curriculum Vitae (Oct 2023)](http://fangtq.com/files/tianqing_CV.pdf).
+I'm a final year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I was a visiting Ph.D. student at EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/). Previously, I was a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). Here is my [Curriculum Vitae (April 2024)](http://fangtq.com/files/tianqing_CV.pdf).
 
-**I'm actively seeking a postdoc position worldwide!**
 
 Research Interest
 ------
@@ -45,6 +44,10 @@ Publication
 - **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
 [\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)
+
+- Weiqi Wang, **Tianqing Fang**, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.       
+**CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**, 2024       
+[\[paper\]](https://arxiv.org/abs/2401.07286) [\[code&data\]](https://github.com/HKUST-KnowComp/CANDLE)     
 
 - Mutian He, **Tianqing Fang**, Weiqi Wang, and Yangqiu Song.     
 **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization,** 2022.     
