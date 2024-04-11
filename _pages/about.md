@@ -15,7 +15,7 @@ Research Interest
 ------
 
 - **Knowledge Acquisition:** Commonsense knowledge acquisition at scale using information extraction ([ASER](https://hkust-knowcomp.github.io/ASER/html/index.html)) and knowledge base population ([DISCOS](https://arxiv.org/abs/2101.00154), [CKBP](https://arxiv.org/abs/2109.07679), [PseudoReasoner](https://arxiv.org/abs/2210.07988)); Conceptualization knowledge acquisition ([AbstractATOMIC](https://arxiv.org/abs/2206.01532), [CAT](https://arxiv.org/abs/2305.04808)).
-- **Reasoning with knowledge for (Large) Language Models:** Integration of (abstract) commonsense knowledge to language models ([CAR](http://arxiv.org/abs/2305.14869)). Knowledge constrained decoding for LLMs ([KCTS](https://arxiv.org/abs/2310.09044)). Knowledge conflicts detection and mitigation ([CDA](https://arxiv.org/abs/2305.14970)).
+- **Reasoning with knowledge for (Large) Language Models:** Integration of (abstract) commonsense knowledge to language models ([CAR](http://arxiv.org/abs/2305.14869)); Complex reasoning over knowledge graphs ([COM2](https://arxiv.org/abs/2403.07398)); Knowledge constrained decoding for LLMs ([KCTS](https://arxiv.org/abs/2310.09044)); Knowledge conflicts detection and mitigation ([CDA](https://arxiv.org/abs/2305.14970)); Dialogue system with knowledge.
 - **Machine Learning for NLP:** Data denoising ([ODDA](https://arxiv.org/abs/2212.10558)), training dynamics ([QAD](https://arxiv.org/abs/2310.11303)), ...
 
 News
@@ -184,12 +184,13 @@ Teaching
 
 Academic Service
 ------
-- Conference Reviewer: ACL Rolling Review, AAAI'23, ACL'23, COLING'22, EMNLP'22, IJCAI'23, KDD'23
+- Conference Area Chair: ARR (Feb/April, 24) -> ACL 2024, EMNLP 2024
+- Conference Reviewer: ACL Rolling Review, AAAI'23-24, ACL'23, COLING'22-24, EMNLP'22-23, IJCAI'23-24, KDD'23-24
 - Conference External Reviewer: KDD'20, 21, ACL'21, EMNLP'21
 
 Miscs:
 -----
-I take pictures on weekends. Check out the highlights on [unsplash](https://unsplash.com/@tqfang).
+Check out some of my photography works on [unsplash](https://unsplash.com/@tqfang).
 
 <a href="https://clustrmaps.com/site/1am85"  title="Visit tracker" style="width: 250px"><img src="//www.clustrmaps.com/map_v2.png?d=1rGYEOu6BaCxnSv3lwCWOBjlq9pFF_8iT_upuStA-JY&cl=ffffff" /></a>
 
