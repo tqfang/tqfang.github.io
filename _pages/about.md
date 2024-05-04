@@ -20,6 +20,7 @@ Research Interest
 
 News
 ------
+- 4/2024: Invited to serve as Senior Area Chair of ACL ARR in April 2024!
 - 3/2024: 2 papers accepted to Findings of NAACL 2024!
 - 2/2024: Invited to serve as Area Chair of ACL 2024.
 - 1/2024: 3 papers accepted to EACL 2024 and 1 paper accepted to ICLR 2024!
@@ -29,7 +30,7 @@ News
 - 9/2023: Invited to serve as the PC for SDM 2024.
 - 6/2023: Invited to serve as the PC for AAAI 2024.
 - 5/2023: Two paper accepted to ACL 2023 main conference.
-- 4/2023: Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released.
+<!-- - 4/2023: Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released. -->
 
 Publication
 ------
