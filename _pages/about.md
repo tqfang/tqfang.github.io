@@ -20,6 +20,8 @@ Research Interest
 
 News
 ------
+- 5/2024: 3 papers accepted to ACL main conference! 
+- 5/2024: Our original paper of [conceptualization](https://arxiv.org/abs/2206.01532) is finally accepted by Artifitial Intelligence journal after two years (many of the follow-up works are already accepted by conferences though). Big shout out to Mutian, who has put tremendous efforts into this amazing work.
 - 4/2024: Invited to serve as Senior Area Chair of ACL ARR in April 2024!
 - 3/2024: 2 papers accepted to Findings of NAACL 2024!
 - 2/2024: Invited to serve as Area Chair of ACL 2024.
@@ -29,7 +31,7 @@ News
 - 10/2023: 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).
 - 9/2023: Invited to serve as the PC for SDM 2024.
 - 6/2023: Invited to serve as the PC for AAAI 2024.
-- 5/2023: Two paper accepted to ACL 2023 main conference.
+<!-- - 5/2023: Two paper accepted to ACL 2023 main conference. -->
 <!-- - 4/2023: Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released. -->
 
 Publication
@@ -38,23 +40,19 @@ Publication
 ### Preprint
 
 
-- **Tianqing Fang**, Zeming Chen, Yangqiu Song, Antoine Bosselut.        
-**Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs**       
-[\[paper\]](https://arxiv.org/abs/2403.07398)
-
 - **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
-[\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)
+[\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)   
 
-- Weiqi Wang, **Tianqing Fang**, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.       
-**CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**, 2024       
-[\[paper\]](https://arxiv.org/abs/2401.07286) [\[code&data\]](https://github.com/HKUST-KnowComp/CANDLE)     
 
-- Mutian He, **Tianqing Fang**, Weiqi Wang, and Yangqiu Song.     
-**Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization,** 2022.     
-[\[paper\]](https://arxiv.org/abs/2206.01532) [\[code\]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
 ### Journal
+
+2024
+
+- Mutian He, **Tianqing Fang**, Weiqi Wang, and Yangqiu Song.      
+**Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization,**         
+*Artificial Intelligence,* 2024. [\[paper\]](https://arxiv.org/abs/2206.01532) [\[code\]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
 2022
 
@@ -67,6 +65,18 @@ Publication
 
 
 2024
+
+- **Tianqing Fang**, Zeming Chen, Yangqiu Song, Antoine Bosselut.        
+**Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs**       
+*ACL 2024*. [\[paper\]](https://arxiv.org/abs/2403.07398)[\[code\]](https://github.com/tqfang/COM2-complex-commonsense-reasoning/)
+
+- Weiqi Wang, **Tianqing Fang**, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.       
+**CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**, 2024       
+*ACL 2024*.  [\[paper\]](https://arxiv.org/abs/2401.07286) [\[code&data\]](https://github.com/HKUST-KnowComp/CANDLE)  
+
+- Zhaowei Wang, Wei Fan, Qing Zong, Hongming Zhang, Sehyun Choi, **Tianqing Fang**, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See.        
+**AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation**     
+*ACL 2024*. [\[paper\]](https://arxiv.org/abs/2402.10646) [\[code&data\]](https://github.com/HKUST-KnowComp/AbsInstruct)  
 
 - **Tianqing Fang**, Zhaowei Wang, Wenxuan Zhou, Hongming Zhang, Yangqiu Song, Muhao Chen.       
 **Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning**,      
