@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year Ph.D. student at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). I was a visiting Ph.D. student at EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/). Previously, I was a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). Here is my [Curriculum Vitae (April 2024)](http://fangtq.com/files/tianqing_CV.pdf).
+I got my Ph.D. degree from HKUST in the summer of 2024, supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). 
+Previously, I was a visiting Ph.D. student at EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/), a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). 
+Here is my [Curriculum Vitae (April 2024)](http://fangtq.com/files/tianqing_CV.pdf).
 
 
 Research Interest
@@ -20,6 +22,7 @@ Research Interest
 
 News
 ------
+- 8/2024: Successfully defended my Ph.D.!
 - 5/2024: 3 papers accepted to ACL main conference! 
 - 5/2024: Our original paper of [conceptualization](https://arxiv.org/abs/2206.01532) is finally accepted by Artifitial Intelligence journal after two years (many of the follow-up works are already accepted by conferences though). Big shout out to Mutian, who has put tremendous efforts into this amazing work.
 - 4/2024: Invited to serve as Senior Area Chair of ACL ARR in April 2024!
@@ -30,7 +33,7 @@ News
 - 10/2023: Invited to serve as the PC for COLING-LREC 2024, and the reviewer for EACL 2023 (ARR).
 - 10/2023: 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).
 - 9/2023: Invited to serve as the PC for SDM 2024.
-- 6/2023: Invited to serve as the PC for AAAI 2024.
+<!-- - 6/2023: Invited to serve as the PC for AAAI 2024. -->
 <!-- - 5/2023: Two paper accepted to ACL 2023 main conference. -->
 <!-- - 4/2023: Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released. -->
 
@@ -172,6 +175,13 @@ Publication
 
 
 \*: Equal Contribution
+
+Ph.D. thesis:
+
+**Commonsense Knowledge Base Population and Reasoning for Inferential Knowledge**.         
+[\[pdf\]](http://fangtq.com/files/tianqing_CV.pdf)
+
+
 
 Awards
 ------
