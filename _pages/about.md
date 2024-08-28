@@ -10,7 +10,7 @@ redirect_from:
 
 I got my Ph.D. degree from HKUST in the summer of 2024, supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). 
 Previously, I was a visiting Ph.D. student at EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/), a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). 
-Here is my [Curriculum Vitae (April 2024)](http://fangtq.com/files/tianqing_CV.pdf).
+Here is my [Curriculum Vitae (April 2024)](https://tqfang.github.io/files/tianqing_CV.pdf).
 
 
 Research Interest
@@ -176,10 +176,9 @@ Publication
 
 \*: Equal Contribution
 
-Ph.D. thesis:
+**Ph.D. thesis:**
 
-**Commonsense Knowledge Base Population and Reasoning for Inferential Knowledge**.         
-[\[pdf\]](http://fangtq.com/files/tianqing_CV.pdf)
+**Commonsense Knowledge Base Population and Reasoning for Inferential Knowledge**. [\[pdf\]](https://tqfang.github.io/files/Tianqing_Ph_D__thesis.pdf)
 
 
 
