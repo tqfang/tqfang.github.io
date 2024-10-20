@@ -16,6 +16,15 @@ Here is my [Curriculum Vitae (April 2024)](https://tqfang.github.io/files/tianqi
 Research Interest
 ------
 
+
+Current Topic:
+
+- VLM/LLM-based Agent. 
+- Self-improvement and evolvement of Agent. 
+
+
+Topic in Ph.D.:
+
 - **Knowledge Acquisition:** Commonsense knowledge acquisition at scale using information extraction ([ASER](https://hkust-knowcomp.github.io/ASER/html/index.html)) and knowledge base population ([DISCOS](https://arxiv.org/abs/2101.00154), [CKBP](https://arxiv.org/abs/2109.07679), [PseudoReasoner](https://arxiv.org/abs/2210.07988)); Conceptualization knowledge acquisition ([AbstractATOMIC](https://arxiv.org/abs/2206.01532), [CAT](https://arxiv.org/abs/2305.04808)).
 - **Reasoning with knowledge for (Large) Language Models:** Integration of (abstract) commonsense knowledge to language models ([CAR](http://arxiv.org/abs/2305.14869)); Complex reasoning over knowledge graphs ([COM2](https://arxiv.org/abs/2403.07398)); Knowledge constrained decoding for LLMs ([KCTS](https://arxiv.org/abs/2310.09044)); Knowledge conflicts detection and mitigation ([CDA](https://arxiv.org/abs/2305.14970)); Dialogue system with knowledge.
 - **Machine Learning for NLP:** Data denoising ([ODDA](https://arxiv.org/abs/2212.10558)), training dynamics ([QAD](https://arxiv.org/abs/2310.11303)), ...
@@ -32,7 +41,7 @@ News
 - 1/2024: Invited to serve as PC for NAACL 2024 and IJCAI 2024.
 - 10/2023: Invited to serve as the PC for COLING-LREC 2024, and the reviewer for EACL 2023 (ARR).
 - 10/2023: 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).
-- 9/2023: Invited to serve as the PC for SDM 2024.
+<!-- - 9/2023: Invited to serve as the PC for SDM 2024. -->
 <!-- - 6/2023: Invited to serve as the PC for AAAI 2024. -->
 <!-- - 5/2023: Two paper accepted to ACL 2023 main conference. -->
 <!-- - 4/2023: Preprints about [ChatGPT on discourse relations](https://arxiv.org/abs/2304.14827) and an updated benchmark of [CSKB Population](https://arxiv.org/abs/2304.10392) are released. -->
@@ -43,9 +52,26 @@ Publication
 ### Preprint
 
 
-- **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
+<!-- - **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
-[\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)   
+[\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)    -->
+
+- Kaiqiao Han\*, **Tianqing Fang** \*, Z Wang, Y Song, M Steedman.         
+**Concept-Reversed Winograd Schema Challenge: Evaluating and Improving Robust Reasoning in Large Language Models via Abstraction**       
+[\[paper\]](https://arxiv.org/src/2410.12040)      
+
+
+- Zhaowei Wang, Hongming Zhang, **Tianqing Fang**, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu.         
+**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**       
+[\[paper\]](https://arxiv.org/src/2410.02730)        
+
+
+
+- Mengzhao Jia, Wenhao Yu, Kaixin Ma, **Tianqing Fang**, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu.         
+**LEOPARD: A Vision Language Model For Text-Rich Multi-Image Tasks**       
+[\[paper\]](https://arxiv.org/src/2410.01744)         
+
+
 
 
 
@@ -160,7 +186,7 @@ Publication
 
 - **Tianqing Fang\***, Weiqi Wang\*, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He.        
 **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset.**        
-*Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021 (Main Conference),* [\[pdf\]](https://arxiv.org/abs/2109.07679) [\[code\]](https://github.com/HKUST-KnowComp/CSKB-Population) [\[video\]](https://www.youtube.com/watch?v=5pLLHaPrx-I)
+*Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021 (Main Conference),* [\[pdf\]](https://arxiv.org/abs/2109.07679) [\[v2\]](https://arxiv.org/abs/2304.10392) [\[code\]](https://github.com/HKUST-KnowComp/CSKB-Population) [\[video\]](https://www.youtube.com/watch?v=5pLLHaPrx-I)
 
 
 - **Tianqing Fang**, Haojie Pan, Hongming Zhang, Yangqiu Song, Kun Xu, Dong Yu.          
