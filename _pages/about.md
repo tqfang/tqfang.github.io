@@ -58,18 +58,18 @@ Publication
 
 - Kaiqiao Han\*, **Tianqing Fang** \*, Z Wang, Y Song, M Steedman.         
 **Concept-Reversed Winograd Schema Challenge: Evaluating and Improving Robust Reasoning in Large Language Models via Abstraction**       
-[\[paper\]](https://arxiv.org/src/2410.12040)      
+[\[paper\]](https://arxiv.org/abs/2410.12040)      
 
 
 - Zhaowei Wang, Hongming Zhang, **Tianqing Fang**, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu.         
 **DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**       
-[\[paper\]](https://arxiv.org/src/2410.02730)        
+[\[paper\]](https://arxiv.org/abs/2410.02730)        
 
 
 
 - Mengzhao Jia, Wenhao Yu, Kaixin Ma, **Tianqing Fang**, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu.         
 **LEOPARD: A Vision Language Model For Text-Rich Multi-Image Tasks**       
-[\[paper\]](https://arxiv.org/src/2410.01744)         
+[\[paper\]](https://arxiv.org/abs/2410.01744)         
 
 
 
