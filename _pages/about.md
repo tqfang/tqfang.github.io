@@ -63,13 +63,13 @@ Publication
 
 - Zhaowei Wang, Hongming Zhang, **Tianqing Fang**, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu.         
 **DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**       
-[\[paper\]](https://arxiv.org/abs/2410.02730)        
+[\[paper\]](https://arxiv.org/abs/2410.02730) [\[code\]](https://github.com/zhaowei-wang-nlp/DivScene)         
 
 
 
 - Mengzhao Jia, Wenhao Yu, Kaixin Ma, **Tianqing Fang**, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu.         
 **LEOPARD: A Vision Language Model For Text-Rich Multi-Image Tasks**       
-[\[paper\]](https://arxiv.org/abs/2410.01744)         
+[\[paper\]](https://arxiv.org/abs/2410.01744) [\[code\]](https://github.com/tencent-ailab/Leopard)          
 
 
 
