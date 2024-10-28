@@ -56,7 +56,7 @@ Publication
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
 [\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)    -->
 
-- Kaiqiao Han\*, **Tianqing Fang** \*, Z Wang, Y Song, M Steedman.         
+- Kaiqiao Han\*, **Tianqing Fang** \*, Zhaowei Wang, Yangqiu Song, Mark Steedman.         
 **Concept-Reversed Winograd Schema Challenge: Evaluating and Improving Robust Reasoning in Large Language Models via Abstraction**       
 [\[paper\]](https://arxiv.org/abs/2410.12040)      
 
@@ -69,7 +69,14 @@ Publication
 
 - Mengzhao Jia, Wenhao Yu, Kaixin Ma, **Tianqing Fang**, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu.         
 **LEOPARD: A Vision Language Model For Text-Rich Multi-Image Tasks**       
-[\[paper\]](https://arxiv.org/abs/2410.01744) [\[code\]](https://github.com/tencent-ailab/Leopard)          
+[\[paper\]](https://arxiv.org/abs/2410.01744) [\[code\]](https://github.com/tencent-ailab/Leopard)
+
+
+
+
+- Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, **Tianqing Fang**, Zhenzhong Lan and Dong Yu         
+**OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization**          
+[\[paper\]](https://arxiv.org/abs/2410.19609) [\[code\]](https://github.com/MinorJerry/OpenWebVoyager)
 
 
 
@@ -130,6 +137,22 @@ Publication
 - Xiongye Xiao, Gengshuo Liu, Gaurav Gupta, Defu Cao, Shixuan Li, Yaxing Li, **Tianqing Fang**, Mingxi Cheng, Paul Bogdan.       
 **Neuro-Inspired Hierarchical Multimodal Learning**,          
 *ICLR 2024* [\[paper\]](https://openreview.net/forum?id=Z9AZsU1Tju)
+
+
+- Baixuan Xu\*, Weiqi Wang\*, Haochen Shi, Wenxuan Ding, Huihao Jing, **Tianqing Fang**, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Long Chen, Yangqiu Song.          
+**MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding.**       
+EMNLP 2024 [\[paper\]](https://arxiv.org/pdf/2406.10701) [\[code\]](https://github.com/HKUST-KnowComp/MIND_Distillation)    
+
+
+
+- Wenxuan Ding\*, Weiqi Wang\*, Sze Heng Douglas Kwok, Minghao Liu, **Tianqing Fang**, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Junxian He, Yangqiu Song.         
+**IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce.**        
+*Findings of EMNLP 2024* [\[paper\]](https://arxiv.org/pdf/2406.10173) [\[code\]](https://github.com/HKUST-KnowComp/IntentionQA)           
+
+
+ 
+
+
 
 2023
 
