@@ -97,7 +97,7 @@ Publication
 
 - Kaiqiao Han\*, **Tianqing Fang** \*, Zhaowei Wang, Yangqiu Song, Mark Steedman.         
 **Concept-Reversed Winograd Schema Challenge: Evaluating and Improving Robust Reasoning in Large Language Models via Abstraction**       
-[\[paper\]](https://arxiv.org/abs/2410.12040) [\[code&data\]](https://github.com/HKUST-KnowComp/Adv-WSC)
+*NAACL 2025*. [\[paper\]](https://arxiv.org/abs/2410.12040) [\[code&data\]](https://github.com/HKUST-KnowComp/Adv-WSC)
 
 
 2024
