@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+I'm a researcher at Tencent AI Lab. 
 I got my Ph.D. degree from HKUST in the summer of 2024, supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). 
 Previously, I was a visiting Ph.D. student at EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/), a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, supervised by [Prof. Yang Yang](http://yangy.org/). 
 Here is my [Curriculum Vitae (April 2024)](https://tqfang.github.io/files/tianqing_CV.pdf).
@@ -31,6 +32,8 @@ Topic in Ph.D.:
 
 News
 ------
+- 4/2025: Awarded as a Finalist for the School of Engineering (SENG) PhD Research Excellence Award 2024–25. Many thanks to my supervisor and all collaborators for their support!
+- 1/2025: The [Concept-reversed Winograd Schema Challenge](https://arxiv.org/abs/2410.12040) paper was accepted to NAACL 2025 main conference. Congratulations to Kaiqiao and the team!
 - 8/2024: Successfully defended my Ph.D.!
 - 5/2024: 3 papers accepted to ACL main conference! 
 - 5/2024: Our original paper of [conceptualization](https://arxiv.org/abs/2206.01532) is finally accepted by Artifitial Intelligence journal after two years (many of the follow-up works are already accepted by conferences though). Big shout out to Mutian, who has put tremendous efforts into this amazing work.
@@ -38,7 +41,7 @@ News
 - 3/2024: 2 papers accepted to Findings of NAACL 2024!
 - 2/2024: Invited to serve as Area Chair of ACL 2024.
 - 1/2024: 3 papers accepted to EACL 2024 and 1 paper accepted to ICLR 2024!
-- 1/2024: Invited to serve as PC for NAACL 2024 and IJCAI 2024.
+<!-- - 1/2024: Invited to serve as PC for NAACL 2024 and IJCAI 2024. -->
 - 10/2023: Invited to serve as the PC for COLING-LREC 2024, and the reviewer for EACL 2023 (ARR).
 - 10/2023: 5 papers accepted to EMNLP. Topics includes zero-shot commonsense QA (2 findings), knowledge-constrained decoding (main), a benchmark for analogy reasoning (main), a benchmark for academic writing formalization (main).
 <!-- - 9/2023: Invited to serve as the PC for SDM 2024. -->
@@ -54,24 +57,15 @@ Publication
 
 <!-- - **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
-[\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)    -->
-
-- Kaiqiao Han\*, **Tianqing Fang** \*, Zhaowei Wang, Yangqiu Song, Mark Steedman.         
-**Concept-Reversed Winograd Schema Challenge: Evaluating and Improving Robust Reasoning in Large Language Models via Abstraction**       
-[\[paper\]](https://arxiv.org/abs/2410.12040)      
-
-
-- Zhaowei Wang, Hongming Zhang, **Tianqing Fang**, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu.         
-**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**       
-[\[paper\]](https://arxiv.org/abs/2410.02730) [\[code\]](https://github.com/zhaowei-wang-nlp/DivScene)         
-
-
+[\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)    -->    
 
 - Mengzhao Jia, Wenhao Yu, Kaixin Ma, **Tianqing Fang**, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu.         
 **LEOPARD: A Vision Language Model For Text-Rich Multi-Image Tasks**       
 [\[paper\]](https://arxiv.org/abs/2410.01744) [\[code\]](https://github.com/tencent-ailab/Leopard)
 
-
+- Zhaowei Wang, Hongming Zhang, **Tianqing Fang**, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu.         
+**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**       
+[\[paper\]](https://arxiv.org/abs/2410.02730) [\[code\]](https://github.com/zhaowei-wang-nlp/DivScene)         
 
 
 - Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, **Tianqing Fang**, Zhenzhong Lan and Dong Yu         
@@ -98,6 +92,12 @@ Publication
 
 
 ### Conference
+
+2025
+
+- Kaiqiao Han\*, **Tianqing Fang** \*, Zhaowei Wang, Yangqiu Song, Mark Steedman.         
+**Concept-Reversed Winograd Schema Challenge: Evaluating and Improving Robust Reasoning in Large Language Models via Abstraction**       
+[\[paper\]](https://arxiv.org/abs/2410.12040) [\[code&data\]](https://github.com/HKUST-KnowComp/Adv-WSC)
 
 
 2024
