@@ -233,6 +233,8 @@ EMNLP 2024 [\[paper\]](https://arxiv.org/pdf/2406.10701) [\[code\]](https://gith
 
 Awards
 ------
+- Finalist of School of Engineering (SENG) PhD Research Excellence Award 2024-25 (a top honor in SENG HKUST) (2025)
+- HKUST RedBird Academic Excellence Award for Continuing PhD Students in 2023/24 (2024)
 - HKUST Overseas Research Award (2023)
 - HKUST RedBird Academic Excellence Award for Continuing PhD Students in 2022/23 (2023)
 - HKUST RedBird Academic Excellence Award for Continuing PhD Students in 2021/22 (2022)
