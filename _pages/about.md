@@ -59,6 +59,14 @@ Publication
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
 [\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)    -->    
 
+- **Tianqing Fang**, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu.         
+**WebEvolver: Enhancing Web Agent Self-Improvement with Co-evolving World Model**       
+[\[paper\]](https://tqfang.github.io/files/agent_world_model.pdf) [\[code\]](TBA)
+
+- Zhisong Zhang, **Tianqing Fang**, Kaixin Ma, Wenhao Yu, Hongming Zhang, Haitao Mi, Dong Yu.         
+**Enhancing Web Agents with Explicit Rollback Mechanisms**       
+[\[paper\]](https://arxiv.org/abs/2504.11788) [\[code\]](TBA)
+
 - Mengzhao Jia, Wenhao Yu, Kaixin Ma, **Tianqing Fang**, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu.         
 **LEOPARD: A Vision Language Model For Text-Rich Multi-Image Tasks**       
 [\[paper\]](https://arxiv.org/abs/2410.01744) [\[code\]](https://github.com/tencent-ailab/Leopard)
