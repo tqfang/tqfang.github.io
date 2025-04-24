@@ -32,6 +32,7 @@ Topic in Ph.D.:
 
 News
 ------
+- 4/2025: Released two technical reports about Web Agent. [WebEvolver](https://tqfang.github.io/files/agent_world_model.pdf), self-improving Agent with World Model, and [Web Agent Rollback](https://arxiv.org/abs/2504.11788).
 - 4/2025: Awarded as a Finalist for the School of Engineering (SENG) PhD Research Excellence Award 2024–25. Many thanks to my supervisor and all collaborators for their support!
 - 1/2025: The [Concept-reversed Winograd Schema Challenge](https://arxiv.org/abs/2410.12040) paper was accepted to NAACL 2025 main conference. Congratulations to Kaiqiao and the team!
 - 8/2024: Successfully defended my Ph.D.!
