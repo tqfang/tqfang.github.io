@@ -279,7 +279,9 @@ Academic Service
 
 Miscs:
 -----
-Check out some of my photography works on [unsplash](https://unsplash.com/@tqfang).
+Check out some of my photography works on [unsplash](https://unsplash.com/@tqfang). 
+
+Also, my cat Mili is a KOC (key opinion cat) on [Rednote/Xiaohongshu](https://www.xiaohongshu.com/user/profile/614af023000000000201e2d9).
 
 <a href="https://clustrmaps.com/site/1am85"  title="Visit tracker" style="width: 250px"><img src="//www.clustrmaps.com/map_v2.png?d=1rGYEOu6BaCxnSv3lwCWOBjlq9pFF_8iT_upuStA-JY&cl=ffffff" /></a>
 
