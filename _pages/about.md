@@ -32,9 +32,11 @@ Topic in Ph.D.:
 
 News
 ------
+- 5/2025: 🆕New paper: [WebCoT](https://arxiv.org/abs/2505.20013), crafting reasoning chain-of-thought for web agent. 
+- 5/2025: [Leopard](https://arxiv.org/abs/2410.01744) has been accepted by TMLR!
 - 5/2025: 3 papers accepted to ACL and ACL Findings! Checkout [OpenWebVoyager](https://arxiv.org/abs/2410.19609), [Parallel Context Encoding](https://arxiv.org/pdf/2412.16545), and [ConceptEdit](https://arxiv.org/pdf/2412.11418)!
 - 5/2025: Invited as Senior Area Chair of AACL 2025!
-- 4/2025: Released two technical reports about Web Agent. [WebEvolver](https://tqfang.github.io/files/agent_world_model.pdf), self-improving Agent with World Model, and [Web Agent Rollback](https://arxiv.org/abs/2504.11788).
+- 4/2025: 🆕Released two technical reports about Web Agent. [WebEvolver](https://tqfang.github.io/files/agent_world_model.pdf), self-improving Agent with World Model, and [Web Agent Rollback](https://arxiv.org/abs/2504.11788).
 - 4/2025: Awarded as a Finalist for the School of Engineering (SENG) PhD Research Excellence Award 2024–25. Many thanks to my supervisor and all collaborators for their support!
 - 1/2025: The [Concept-reversed Winograd Schema Challenge](https://arxiv.org/abs/2410.12040) paper was accepted to NAACL 2025 main conference. Congratulations to Kaiqiao and the team!
 - 8/2024: Successfully defended my Ph.D.!
@@ -64,15 +66,15 @@ Publication
 
 - **Tianqing Fang**, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu.         
 **WebEvolver: Enhancing Web Agent Self-Improvement with Co-evolving World Model**       
-[\[paper\]](https://tqfang.github.io/files/agent_world_model.pdf) [\[code\]](TBA)
+[\[paper\]](https://arxiv.org/abs/2504.21024) [\[code\]](TBA)
+
+- Minda Hu\*, **Tianqing Fang\***, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, Hongming Zhang, Haitao Mi, Dong Yu, Irwin King      
+**WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback**       
+[\[paper\]](https://arxiv.org/abs/2505.20013) [\[code\]](TBA)
 
 - Zhisong Zhang, **Tianqing Fang**, Kaixin Ma, Wenhao Yu, Hongming Zhang, Haitao Mi, Dong Yu.         
 **Enhancing Web Agents with Explicit Rollback Mechanisms**       
 [\[paper\]](https://arxiv.org/abs/2504.11788) [\[code\]](TBA)
-
-- Mengzhao Jia, Wenhao Yu, Kaixin Ma, **Tianqing Fang**, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu.         
-**LEOPARD: A Vision Language Model For Text-Rich Multi-Image Tasks**       
-[\[paper\]](https://arxiv.org/abs/2410.01744) [\[code\]](https://github.com/tencent-ailab/Leopard)
 
 - Zhaowei Wang, Hongming Zhang, **Tianqing Fang**, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu.         
 **DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**       
@@ -82,6 +84,12 @@ Publication
 
 
 ### Journal
+
+2025
+
+- Mengzhao Jia, Wenhao Yu, Kaixin Ma, **Tianqing Fang**, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu.         
+**LEOPARD: A Vision Language Model For Text-Rich Multi-Image Tasks**       
+*TMLR* [\[paper\]](https://arxiv.org/abs/2410.01744) [\[code\]](https://github.com/tencent-ailab/Leopard)
 
 2024
 
