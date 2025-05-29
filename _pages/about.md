@@ -32,16 +32,16 @@ Topic in Ph.D.:
 
 News
 ------
-- 5/2025: 🆕New paper: [WebCoT](https://arxiv.org/abs/2505.20013), crafting reasoning chain-of-thought for web agent. 
-- 5/2025: 🚀[Leopard](https://arxiv.org/abs/2410.01744) has been accepted by TMLR!
-- 5/2025: 🚀3 papers accepted to ACL and ACL Findings! Checkout [OpenWebVoyager](https://arxiv.org/abs/2410.19609), [Parallel Context Encoding](https://arxiv.org/pdf/2412.16545), and [ConceptEdit](https://arxiv.org/pdf/2412.11418)!
-- 5/2025: 🚀Invited as Senior Area Chair of AACL 2025!
-- 4/2025: 🆕Released two technical reports about Web Agent. [WebEvolver](https://tqfang.github.io/files/agent_world_model.pdf), self-improving Agent with World Model, and [Web Agent Rollback](https://arxiv.org/abs/2504.11788).
-- 4/2025: 🚀Awarded as a Finalist for the School of Engineering (SENG) PhD Research Excellence Award 2024–25. Many thanks to my supervisor and all collaborators for their support!
-- 1/2025: 🚀The [Concept-reversed Winograd Schema Challenge](https://arxiv.org/abs/2410.12040) paper was accepted to NAACL 2025 main conference. Congratulations to Kaiqiao and the team!
-- 8/2024: 🎓Successfully defended my Ph.D.!
-- 5/2024: 🚀3 papers accepted to ACL main conference! 
-- 5/2024: 🚀Our original paper of [conceptualization](https://arxiv.org/abs/2206.01532) is finally accepted by Artifitial Intelligence journal after two years (many of the follow-up works are already accepted by conferences though). Big shout out to Mutian, who has put tremendous efforts into this amazing work.
+- 5/2025: 🆕 New paper: [WebCoT](https://arxiv.org/abs/2505.20013), crafting reasoning chain-of-thought for web agent. 
+- 5/2025: 🐆 [Leopard](https://arxiv.org/abs/2410.01744), multimodal language model and data focusing on text-rich, multiimage scenarios, has been accepted by TMLR!
+- 5/2025: 🚀 3 papers accepted to ACL and ACL Findings! Checkout [OpenWebVoyager](https://arxiv.org/abs/2410.19609), [Parallel Context Encoding](https://arxiv.org/pdf/2412.16545), and [ConceptEdit](https://arxiv.org/pdf/2412.11418)!
+- 5/2025: 🚀 Invited as Senior Area Chair of AACL 2025!
+- 4/2025: 🆕 Released two technical reports about Web Agent. [WebEvolver](https://tqfang.github.io/files/agent_world_model.pdf), self-improving Agent with World Model, and [Web Agent Rollback](https://arxiv.org/abs/2504.11788).
+- 4/2025: 🎓 Awarded as a Finalist for the School of Engineering (SENG) PhD Research Excellence Award 2024–25. Many thanks to my supervisor and all collaborators for their support!
+- 1/2025: 🚀 The [Concept-reversed Winograd Schema Challenge](https://arxiv.org/abs/2410.12040) paper was accepted to NAACL 2025 main conference. Congratulations to Kaiqiao and the team!
+- 8/2024: 🎓 Successfully defended my Ph.D.!
+- 5/2024: 🚀 3 papers accepted to ACL main conference! 
+- 5/2024: 🚀 Our original paper of [conceptualization](https://arxiv.org/abs/2206.01532) is finally accepted by Artifitial Intelligence journal after two years (many of the follow-up works are already accepted by conferences though). Big shout out to Mutian, who has put tremendous efforts into this amazing work.
 <!-- - 4/2024: Invited to serve as Senior Area Chair of ACL ARR in April 2024! -->
 <!-- - 3/2024: 2 papers accepted to Findings of NAACL 2024! -->
 <!-- - 2/2024: Invited to serve as Area Chair of ACL 2024. -->
