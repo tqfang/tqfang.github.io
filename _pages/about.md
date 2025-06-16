@@ -66,15 +66,20 @@ Publication
 
 - **Tianqing Fang**, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu.         
 **WebEvolver: Enhancing Web Agent Self-Improvement with Co-evolving World Model**       
-[\[paper\]](https://arxiv.org/abs/2504.21024) [\[code\]](TBA)
+[\[paper\]](https://arxiv.org/abs/2504.21024) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebEvolver)
 
 - Minda Hu\*, **Tianqing Fang\***, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, Hongming Zhang, Haitao Mi, Dong Yu, Irwin King      
 **WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback**       
-[\[paper\]](https://arxiv.org/abs/2505.20013) [\[code\]](TBA)
+[\[paper\]](https://arxiv.org/abs/2505.20013) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebCoT)
 
 - Zhisong Zhang, **Tianqing Fang**, Kaixin Ma, Wenhao Yu, Hongming Zhang, Haitao Mi, Dong Yu.         
 **Enhancing Web Agents with Explicit Rollback Mechanisms**       
-[\[paper\]](https://arxiv.org/abs/2504.11788) [\[code\]](TBA)
+[\[paper\]](https://arxiv.org/abs/2504.11788)
+
+
+- Ce Zhang, Kaixin Ma, **Tianqing Fang**, Wenhao Yu, Hongming Zhang, Zhisong Zhang, Yaqi Xie, Katia Sycara, Haitao Mi, Dong Yu.         
+**VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**       
+[\[paper\]](https://arxiv.org/abs/2505.22654) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/VScan)
 
 - Zhaowei Wang, Hongming Zhang, **Tianqing Fang**, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu.         
 **DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**       
