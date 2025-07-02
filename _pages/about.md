@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a researcher at Tencent AI Lab. 
 I got my Ph.D. degree from HKUST in the summer of 2024, supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). 
-Previously, I was a visiting Ph.D. student at EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/), a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, where I was supervised by [Prof. Yang Yang](http://yangy.org/) and was a member Advanced Class of Engineering Education (ACEE) in Chu Ko Chen Honors College.
+Previously, I was a visiting Ph.D. student at EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/), a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, where I was supervised by [Prof. Yang Yang](http://yangy.org/) and was a member of Advanced Class of Engineering Education (ACEE) in Chu Ko Chen Honors College.
 Here is my [Curriculum Vitae (April 2024)](https://tqfang.github.io/files/tianqing_CV.pdf).
 
 
