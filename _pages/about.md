@@ -11,7 +11,7 @@ redirect_from:
 I'm a researcher at Tencent AI Lab. 
 I got my Ph.D. degree from HKUST in the summer of 2024, supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). 
 Previously, I was a visiting Ph.D. student at EPFL, working with Prof. [Antoine Bosselut](https://atcbosselut.github.io/), a visiting research scholar at University of Southern California, working with Prof. [Muhao Chen](https://muhaochen.github.io/). I received my B.E. degree from Zhejiang University in 2019, where I was supervised by [Prof. Yang Yang](http://yangy.org/) and was a member of Advanced Class of Engineering Education (ACEE) in Chu Ko Chen Honors College.
-Here is my [Curriculum Vitae (April 2024)](https://tqfang.github.io/files/tianqing_CV.pdf).
+<!-- Here is my [Curriculum Vitae (April 2024)](https://tqfang.github.io/files/tianqing_CV.pdf). -->
 
 
 Research Interest
@@ -20,18 +20,23 @@ Research Interest
 
 Current Topic:
 
-- VLM/LLM-based Agent. 
-- Self-improvement and evolvement of Agent. 
+- Deep Research Agents 
+  - [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414): A fully open-source agent built with maximally free tools, featuring an open-source backbone model and transparent training recipes
+- Self-evolving of Agents
+  - [WebEvolver](https://arxiv.org/abs/2504.21024): World model-based self-evolving agent
+  - [WebCoT](https://arxiv.org/abs/2505.20013): Agentic behavior injection for agent foundation models
+  - [OpenWebVoyager](https://arxiv.org/abs/2410.19609): Self-evolving multi-modal agent foundation models
 
 
 Topic in Ph.D.:
 
 - **Knowledge Acquisition:** Commonsense knowledge acquisition at scale using information extraction ([ASER](https://hkust-knowcomp.github.io/ASER/html/index.html)) and knowledge base population ([DISCOS](https://arxiv.org/abs/2101.00154), [CKBP](https://arxiv.org/abs/2109.07679), [PseudoReasoner](https://arxiv.org/abs/2210.07988)); Conceptualization knowledge acquisition ([AbstractATOMIC](https://arxiv.org/abs/2206.01532), [CAT](https://arxiv.org/abs/2305.04808)).
 - **Reasoning with knowledge for (Large) Language Models:** Integration of (abstract) commonsense knowledge to language models ([CAR](http://arxiv.org/abs/2305.14869)); Complex reasoning over knowledge graphs ([COM2](https://arxiv.org/abs/2403.07398)); Knowledge constrained decoding for LLMs ([KCTS](https://arxiv.org/abs/2310.09044)); Knowledge conflicts detection and mitigation ([CDA](https://arxiv.org/abs/2305.14970)); Dialogue system with knowledge.
-- **Machine Learning for NLP:** Data denoising ([ODDA](https://arxiv.org/abs/2212.10558)), training dynamics ([QAD](https://arxiv.org/abs/2310.11303)), ...
+<!-- - **Machine Learning for NLP:** Data denoising ([ODDA](https://arxiv.org/abs/2212.10558)), training dynamics ([QAD](https://arxiv.org/abs/2310.11303)), ... -->
 
 News
 ------
+- 8/2025: 🆕 New project released: [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414), a fully open-source agent built with maximally free tools, featuring an open-source backbone model and transparent training recipes. SoTA performance on GAIA!
 - 5/2025: 🆕 New paper: [WebCoT](https://arxiv.org/abs/2505.20013), crafting reasoning chain-of-thought for web agent. 
 - 5/2025: 🐆 [Leopard](https://arxiv.org/abs/2410.01744), multimodal language model and data focusing on text-rich, multiimage scenarios, has been accepted by TMLR!
 - 5/2025: 🚀 3 papers accepted to ACL and ACL Findings! Checkout [OpenWebVoyager](https://arxiv.org/abs/2410.19609), [Parallel Context Encoding](https://arxiv.org/pdf/2412.16545), and [ConceptEdit](https://arxiv.org/pdf/2412.11418)!
@@ -40,8 +45,8 @@ News
 - 4/2025: 🎓 Awarded as a Finalist for the School of Engineering (SENG) PhD Research Excellence Award 2024–25. Many thanks to my supervisor and all collaborators for their support!
 - 1/2025: 🚀 The [Concept-reversed Winograd Schema Challenge](https://arxiv.org/abs/2410.12040) paper was accepted to NAACL 2025 main conference. Congratulations to Kaiqiao and the team!
 - 8/2024: 🎓 Successfully defended my Ph.D.!
-- 5/2024: 🚀 3 papers accepted to ACL main conference! 
-- 5/2024: 🚀 Our original paper of [conceptualization](https://arxiv.org/abs/2206.01532) is finally accepted by Artifitial Intelligence journal after two years (many of the follow-up works are already accepted by conferences though). Big shout out to Mutian, who has put tremendous efforts into this amazing work.
+<!-- - 5/2024: 🚀 3 papers accepted to ACL main conference! 
+- 5/2024: 🚀 Our original paper of [conceptualization](https://arxiv.org/abs/2206.01532) is finally accepted by Artifitial Intelligence journal after two years (many of the follow-up works are already accepted by conferences though). Big shout out to Mutian, who has put tremendous efforts into this amazing work. -->
 <!-- - 4/2024: Invited to serve as Senior Area Chair of ACL ARR in April 2024! -->
 <!-- - 3/2024: 2 papers accepted to Findings of NAACL 2024! -->
 <!-- - 2/2024: Invited to serve as Area Chair of ACL 2024. -->
@@ -64,26 +69,37 @@ Publication
 **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
 [\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)    -->    
 
+- **Tianqing Fang\***, Zhisong Zhang\*, Xiaoyang Wang, Rui Wang, Can Qin, Yuxuan Wan, Jun-Yu Ma, Ce Zhang, Jiaqi Chen, Xiyun Li, Hongming Zhang, Haitao Mi, Dong Yu.         
+**Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training**       
+Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2508.00414) [\[code\]](https://github.com/Tencent/CognitiveKernel-Pro) [\[data\]](https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-Query) [\[model\]](https://huggingface.co/CognitiveKernel/Qwen3-8B-CK-Pro)
+
 - **Tianqing Fang**, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu.         
 **WebEvolver: Enhancing Web Agent Self-Improvement with Co-evolving World Model**       
-[\[paper\]](https://arxiv.org/abs/2504.21024) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebEvolver)
+Techincal Report, 2025 [\[paper\]](https://arxiv.org/abs/2504.21024) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebEvolver)
 
 - Minda Hu\*, **Tianqing Fang\***, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, Hongming Zhang, Haitao Mi, Dong Yu, Irwin King      
 **WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback**       
-[\[paper\]](https://arxiv.org/abs/2505.20013) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebCoT)
+Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2505.20013) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebCoT)
 
 - Zhisong Zhang, **Tianqing Fang**, Kaixin Ma, Wenhao Yu, Hongming Zhang, Haitao Mi, Dong Yu.         
 **Enhancing Web Agents with Explicit Rollback Mechanisms**       
-[\[paper\]](https://arxiv.org/abs/2504.11788)
+Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2504.11788)
+
+
+- Junyu Ma, Tianqing Fang, Zhisong Zhang, Hongming Zhang, Haitao Mi, Dong Yu.         
+**Recall with Reasoning: Chain-of-Thought Distillation for Mamba's Long-Context Memory and Extrapolation (RwR)**       
+Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2505.03320)
 
 
 - Ce Zhang, Kaixin Ma, **Tianqing Fang**, Wenhao Yu, Hongming Zhang, Zhisong Zhang, Yaqi Xie, Katia Sycara, Haitao Mi, Dong Yu.         
 **VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**       
-[\[paper\]](https://arxiv.org/abs/2505.22654) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/VScan)
+Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2505.22654) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/VScan)
 
-- Zhaowei Wang, Hongming Zhang, **Tianqing Fang**, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu.         
+
+
+<!-- - Zhaowei Wang, Hongming Zhang, **Tianqing Fang**, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu.         
 **DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**       
-[\[paper\]](https://arxiv.org/abs/2410.02730) [\[code\]](https://github.com/zhaowei-wang-nlp/DivScene)         
+Technical Report, 2024 [\[paper\]](https://arxiv.org/abs/2410.02730) [\[code\]](https://github.com/zhaowei-wang-nlp/DivScene)          -->
 
 
 
