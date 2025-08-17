@@ -20,9 +20,9 @@ Research Interest
 
 Current Topic:
 
-- Deep Research Agents 
+- Deep Research Agents ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro))
   - [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414): A fully open-source agent built with maximally free tools, featuring an open-source backbone model and transparent training recipes
-- Self-evolving of Agents
+- Self-evolving of Agents ([GitHub](https://github.com/Tencent/selfEvolvingAgent))
   - [WebEvolver](https://arxiv.org/abs/2504.21024): World model-based self-evolving agent
   - [WebCoT](https://arxiv.org/abs/2505.20013): Agentic behavior injection for agent foundation models
   - [OpenWebVoyager](https://arxiv.org/abs/2410.19609): Self-evolving multi-modal agent foundation models
@@ -65,10 +65,6 @@ Publication
 ### Preprint
 
 
-<!-- - **Tianqing Fang\***, Quyet V. Do\*, Sehyun Choi, Weiqi Wang, Yangqiu Song.        
-**CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**, 2023
-[\[paper\]](https://arxiv.org/abs/2304.10392) [\[code&data\]](https://github.com/HKUST-KnowComp/CSKB-Population/)    -->    
-
 - **Tianqing Fang\***, Zhisong Zhang\*, Xiaoyang Wang, Rui Wang, Can Qin, Yuxuan Wan, Jun-Yu Ma, Ce Zhang, Jiaqi Chen, Xiyun Li, Hongming Zhang, Haitao Mi, Dong Yu.         
 **Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training**       
 Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2508.00414) [\[code\]](https://github.com/Tencent/CognitiveKernel-Pro) [\[data\]](https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-Query) [\[model\]](https://huggingface.co/CognitiveKernel/Qwen3-8B-CK-Pro)
@@ -110,7 +106,7 @@ Technical Report, 2024 [\[paper\]](https://arxiv.org/abs/2410.02730) [\[code\]](
 
 - Mengzhao Jia, Wenhao Yu, Kaixin Ma, **Tianqing Fang**, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu.         
 **LEOPARD: A Vision Language Model For Text-Rich Multi-Image Tasks**       
-*TMLR* [\[paper\]](https://arxiv.org/abs/2410.01744) [\[code\]](https://github.com/tencent-ailab/Leopard)
+*TMLR* [\[paper\]](https://arxiv.org/abs/2410.01744) [\[code\]](https://github.com/tencent-ailab/Leopard) [\[Data\]](https://huggingface.co/datasets/wyu1/Leopard-Instruct)
 
 2024
 
