@@ -20,8 +20,8 @@ Research Interest
 
 Current Topic:
 
-- Deep Research Agents ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro))
-  - [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414): A fully open-source agent built with maximally free tools, featuring an open-source backbone model and transparent training recipes
+- Deep Research Agents and Agent Foundation Model ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro))
+  - [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414): A fully open-source agent built with maximally free tools, featuring an open-source agent foundation model and transparent training recipes
 - Self-evolving of Agents ([GitHub](https://github.com/Tencent/selfEvolvingAgent))
   - [WebEvolver](https://arxiv.org/abs/2504.21024): World model-based self-evolving agent
   - [WebCoT](https://arxiv.org/abs/2505.20013): Agentic behavior injection for agent foundation models
