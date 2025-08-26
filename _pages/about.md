@@ -36,8 +36,9 @@ Topic in Ph.D.:
 
 News
 ------
+- 9/2025: 🚀 5 papers accepted to EMNLP and EMNLP Findings! Checkout [WebEvolver](https://arxiv.org/abs/2504.21024) and [WebCoT](https://arxiv.org/abs/2505.20013)!
 - 8/2025: 🆕 New project released: [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414), a fully open-source agent built with maximally free tools, featuring an open-source backbone model and transparent training recipes. SoTA performance on GAIA!
-- 5/2025: 🆕 New paper: [WebCoT](https://arxiv.org/abs/2505.20013), crafting reasoning chain-of-thought for web agent. 
+<!-- - 5/2025: 🆕 New paper: [WebCoT](https://arxiv.org/abs/2505.20013), crafting reasoning chain-of-thought for web agent.  -->
 - 5/2025: 🐆 [Leopard](https://arxiv.org/abs/2410.01744), multimodal language model and data focusing on text-rich, multiimage scenarios, has been accepted by TMLR!
 - 5/2025: 🚀 3 papers accepted to ACL and ACL Findings! Checkout [OpenWebVoyager](https://arxiv.org/abs/2410.19609), [Parallel Context Encoding](https://arxiv.org/pdf/2412.16545), and [ConceptEdit](https://arxiv.org/pdf/2412.11418)!
 - 5/2025: 🚀 Invited as Senior Area Chair of AACL 2025!
@@ -69,22 +70,10 @@ Publication
 **Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training**       
 Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2508.00414) [\[code\]](https://github.com/Tencent/CognitiveKernel-Pro) [\[data\]](https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-Query) [\[model\]](https://huggingface.co/CognitiveKernel/Qwen3-8B-CK-Pro)
 
-- **Tianqing Fang**, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu.         
-**WebEvolver: Enhancing Web Agent Self-Improvement with Co-evolving World Model**       
-Techincal Report, 2025 [\[paper\]](https://arxiv.org/abs/2504.21024) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebEvolver)
-
-- Minda Hu\*, **Tianqing Fang\***, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, Hongming Zhang, Haitao Mi, Dong Yu, Irwin King      
-**WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback**       
-Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2505.20013) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebCoT)
 
 - Zhisong Zhang, **Tianqing Fang**, Kaixin Ma, Wenhao Yu, Hongming Zhang, Haitao Mi, Dong Yu.         
 **Enhancing Web Agents with Explicit Rollback Mechanisms**       
 Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2504.11788)
-
-
-- Junyu Ma, Tianqing Fang, Zhisong Zhang, Hongming Zhang, Haitao Mi, Dong Yu.         
-**Recall with Reasoning: Chain-of-Thought Distillation for Mamba's Long-Context Memory and Extrapolation (RwR)**       
-Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2505.03320)
 
 
 - Ce Zhang, Kaixin Ma, **Tianqing Fang**, Wenhao Yu, Hongming Zhang, Zhisong Zhang, Yaqi Xie, Katia Sycara, Haitao Mi, Dong Yu.         
@@ -124,6 +113,19 @@ Technical Report, 2024 [\[paper\]](https://arxiv.org/abs/2410.02730) [\[code\]](
 ### Conference
 
 2025
+
+- **Tianqing Fang**, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu.         
+**WebEvolver: Enhancing Web Agent Self-Improvement with Co-evolving World Model**       
+EMNLP, 2025 [\[paper\]](https://arxiv.org/abs/2504.21024) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebEvolver)
+
+- Minda Hu\*, **Tianqing Fang\***, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, Hongming Zhang, Haitao Mi, Dong Yu, Irwin King      
+**WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback**       
+EMNLP Findings, 2025 [\[paper\]](https://arxiv.org/abs/2505.20013) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebCoT)
+
+- Junyu Ma, Tianqing Fang, Zhisong Zhang, Hongming Zhang, Haitao Mi, Dong Yu.         
+**Recall with Reasoning: Chain-of-Thought Distillation for Mamba's Long-Context Memory and Extrapolation (RwR)**       
+EMNLP, 2025 [\[paper\]](https://arxiv.org/abs/2505.03320)
+
 
 - Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, **Tianqing Fang**, Zhenzhong Lan and Dong Yu         
 **OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization**          
