@@ -62,7 +62,7 @@ News
 Publication
 ------
 
-### Preprint
+### Selected Publications on Agents
 
 
 - **Tianqing Fang\***, Zhisong Zhang\*, Xiaoyang Wang, Rui Wang, Can Qin, Yuxuan Wan, Jun-Yu Ma, Ce Zhang, Jiaqi Chen, Xiyun Li, Hongming Zhang, Haitao Mi, Dong Yu.         
@@ -70,14 +70,27 @@ Publication
 Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2508.00414) [\[code\]](https://github.com/Tencent/CognitiveKernel-Pro) [\[data\]](https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-Query) [\[model\]](https://huggingface.co/CognitiveKernel/Qwen3-8B-CK-Pro)
 
 
+- **Tianqing Fang**, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu.         
+**WebEvolver: Enhancing Web Agent Self-Improvement with Co-evolving World Model**       
+EMNLP, 2025 [\[paper\]](https://arxiv.org/abs/2504.21024) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebEvolver)
+
+- Minda Hu\*, **Tianqing Fang\***, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, Hongming Zhang, Haitao Mi, Dong Yu, Irwin King      
+**WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback**       
+EMNLP Findings, 2025 [\[paper\]](https://arxiv.org/abs/2505.20013) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebCoT)
+
+
+- Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, **Tianqing Fang**, Zhenzhong Lan and Dong Yu         
+**OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization**          
+ACL 2025, [\[paper\]](https://arxiv.org/abs/2410.19609) [\[code\]](https://github.com/MinorJerry/OpenWebVoyager)
+
+
 - Zhisong Zhang, **Tianqing Fang**, Kaixin Ma, Wenhao Yu, Hongming Zhang, Haitao Mi, Dong Yu.         
 **Enhancing Web Agents with Explicit Rollback Mechanisms**       
 Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2504.11788)
 
-
-- Ce Zhang, Kaixin Ma, **Tianqing Fang**, Wenhao Yu, Hongming Zhang, Zhisong Zhang, Yaqi Xie, Katia Sycara, Haitao Mi, Dong Yu.         
+<!-- - Ce Zhang, Kaixin Ma, **Tianqing Fang**, Wenhao Yu, Hongming Zhang, Zhisong Zhang, Yaqi Xie, Katia Sycara, Haitao Mi, Dong Yu.         
 **VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**       
-Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2505.22654) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/VScan)
+Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2505.22654) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/VScan) -->
 
 
 
