@@ -20,12 +20,16 @@ Research Interest
 
 Current Topic:
 
-- Deep Research Agents and Agent Foundation Model ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro))
+- Deep Research Agents Scaffold ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro))
   - [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414): A fully open-source agent built with maximally free tools, featuring an open-source agent foundation model and transparent training recipes
+- Agent Foundation Model Post-Training 
+  - Agent Data Synthesizing: [Explore to Evolve; WebAggregator](https://github.com/Tencent/WebAggregator)
+  - SFT & RL
 - Self-evolving of Agents ([GitHub](https://github.com/Tencent/selfEvolvingAgent))
   - [WebEvolver](https://arxiv.org/abs/2504.21024): World model-based self-evolving agent
   - [WebCoT](https://arxiv.org/abs/2505.20013): Agentic behavior injection for agent foundation models
   - [OpenWebVoyager](https://arxiv.org/abs/2410.19609): Self-evolving multi-modal agent foundation models
+  - Test-time scaling: agent-as-a-judge, test-time self-improving, agent memory folding.
 
 
 Topic in Ph.D.:
@@ -36,7 +40,8 @@ Topic in Ph.D.:
 
 News
 ------
-- 9/2025: 🚀 5 papers accepted to EMNLP and EMNLP Findings! Checkout [WebEvolver](https://arxiv.org/abs/2504.21024) (self-improving Agents with World Models), and [WebCoT](https://arxiv.org/abs/2505.20013) (cognitive behavior injection to agent foundation models)!
+- 11/2025: Attending EMNLP 2025 @ Suzhou in person. Feel free to reach me out!
+- 9/2025: 🚀 5 papers accepted to EMNLP and EMNLP Findings! Checkout [WebEvolver](https://arxiv.org/abs/2504.21024) (self-improving Agents with World Models), and [WebCoT](https://arxiv.org/abs/2505.20013) (cognitive behavior injection to agent foundation models)! 
 - 8/2025: 🆕 New project released: [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414), a fully open-source agent built with maximally free tools, featuring an open-source backbone model and transparent training recipes. SoTA performance on GAIA!
 - 5/2025: 🐆 [Leopard](https://arxiv.org/abs/2410.01744), multimodal language model and data focusing on text-rich, multiimage scenarios, has been accepted by TMLR!
 - 5/2025: 🚀 3 papers accepted to ACL and ACL Findings! Checkout [OpenWebVoyager](https://arxiv.org/abs/2410.19609), [Parallel Context Encoding](https://arxiv.org/pdf/2412.16545), and [ConceptEdit](https://arxiv.org/pdf/2412.11418)!
@@ -73,6 +78,9 @@ Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2508.00414) [\[code\]](
 - **Tianqing Fang**, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu.         
 **WebEvolver: Enhancing Web Agent Self-Improvement with Co-evolving World Model**       
 EMNLP, 2025 [\[paper\]](https://arxiv.org/abs/2504.21024) [\[code\]](https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebEvolver)
+
+
+- Rui Wang, Ce Zhang, Jun-Yu Ma, Jianshu Zhang, Hongru Wang, Yi Chen, Boyang Xue, **Tianqing Fang (Project lead)**, Zhisong Zhang, Hongming Zhang, Haitao Mi, Dong Yu, Kam-Fai Wong. **Explore to Evolve: Scaling Evolved Aggregation Logic via Proactive Online Exploration for Deep Research Agents**, Technical Report, [\[paper\]](https://arxiv.org/abs/2510.14438)  [\[code\]](https://github.com/Tencent/WebAggregator)
 
 - Minda Hu\*, **Tianqing Fang\***, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, Hongming Zhang, Haitao Mi, Dong Yu, Irwin King      
 **WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback**       
