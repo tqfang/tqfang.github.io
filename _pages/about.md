@@ -17,29 +17,26 @@ Previously, I was a visiting Ph.D. student at EPFL, working with Prof. [Antoine 
 Research Interest
 ------
 
+### Current Research Topics
 
-Current Topic:
+- **Agent Foundation Model Post-Train**
+  - **Deep Research Agent [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414) ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro)):** A fully open-source agent built with maximally free tools, featuring an open-source agent foundation model and transparent SFT training recipes.
+  - **Synthetic Data Generation:** [Explore to Evolve](https://github.com/Tencent/WebAggregator) for SFT and RL.
+  - **Agentic RL**
+- **Self-evolving of Agents ([GitHub](https://github.com/Tencent/selfEvolvingAgent))**
+  - **Experience Learning & World Modeling:** World model-based self-evolving agent ([WebEvolver](https://arxiv.org/abs/2504.21024)). Agentic experience injection ([WebCoT](https://arxiv.org/abs/2505.20013)).
+  - **[OpenWebVoyager](https://arxiv.org/abs/2410.19609):** Self-evolving multi-modal agent foundation models.
+  - **[Test-time Self-Evolving](https://arxiv.org/pdf/2601.15808):** Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification.
 
-- Deep Research Agents Scaffold ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro))
-  - [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414): A fully open-source agent built with maximally free tools, featuring an open-source agent foundation model and transparent training recipes
-- Agent Foundation Model Post-Training 
-  - Agent Data Synthesizing: [Explore to Evolve; WebAggregator](https://github.com/Tencent/WebAggregator)
-  - SFT & RL
-- Self-evolving of Agents ([GitHub](https://github.com/Tencent/selfEvolvingAgent))
-  - [WebEvolver](https://arxiv.org/abs/2504.21024): World model-based self-evolving agent
-  - [WebCoT](https://arxiv.org/abs/2505.20013): Agentic behavior injection for agent foundation models
-  - [OpenWebVoyager](https://arxiv.org/abs/2410.19609): Self-evolving multi-modal agent foundation models
-  - Test-time scaling: agent-as-a-judge, test-time self-improving, agent memory folding.
-
-
-Topic in Ph.D.:
+<!-- Topic in Ph.D.:
 
 - **Knowledge Acquisition:** Commonsense knowledge acquisition at scale using information extraction ([ASER](https://hkust-knowcomp.github.io/ASER/html/index.html)) and knowledge base population ([DISCOS](https://arxiv.org/abs/2101.00154), [CKBP](https://arxiv.org/abs/2109.07679), [PseudoReasoner](https://arxiv.org/abs/2210.07988)); Conceptualization knowledge acquisition ([AbstractATOMIC](https://arxiv.org/abs/2206.01532), [CAT](https://arxiv.org/abs/2305.04808)).
-- **Reasoning with knowledge for (Large) Language Models:** Integration of (abstract) commonsense knowledge to language models ([CAR](http://arxiv.org/abs/2305.14869)); Complex reasoning over knowledge graphs ([COM2](https://arxiv.org/abs/2403.07398)); Knowledge constrained decoding for LLMs ([KCTS](https://arxiv.org/abs/2310.09044)); Knowledge conflicts detection and mitigation ([CDA](https://arxiv.org/abs/2305.14970)); Dialogue system with knowledge.
+- **Reasoning with knowledge for (Large) Language Models:** Integration of (abstract) commonsense knowledge to language models ([CAR](http://arxiv.org/abs/2305.14869)); Complex reasoning over knowledge graphs ([COM2](https://arxiv.org/abs/2403.07398)); Knowledge constrained decoding for LLMs ([KCTS](https://arxiv.org/abs/2310.09044)); Knowledge conflicts detection and mitigation ([CDA](https://arxiv.org/abs/2305.14970)); Dialogue system with knowledge. -->
 <!-- - **Machine Learning for NLP:** Data denoising ([ODDA](https://arxiv.org/abs/2212.10558)), training dynamics ([QAD](https://arxiv.org/abs/2310.11303)), ... -->
 
 News
 ------
+- 1/2026: Released one paper on [test-time self-evolving of agents](https://arxiv.org/pdf/2601.15808) and one paper on [efficient offline RL](https://arxiv.org/abs/2602.03412) for agents.
 - 11/2025: Attending EMNLP 2025 @ Suzhou in person. Feel free to reach me out!
 - 9/2025: 🚀 5 papers accepted to EMNLP and EMNLP Findings! Checkout [WebEvolver](https://arxiv.org/abs/2504.21024) (self-improving Agents with World Models), and [WebCoT](https://arxiv.org/abs/2505.20013) (cognitive behavior injection to agent foundation models)! 
 - 8/2025: 🆕 New project released: [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414), a fully open-source agent built with maximally free tools, featuring an open-source backbone model and transparent training recipes. SoTA performance on GAIA!
@@ -49,7 +46,7 @@ News
 <!-- - 4/2025: 🆕 Released two technical reports about Web Agent. [WebEvolver](https://tqfang.github.io/files/agent_world_model.pdf), self-improving Agent with World Model, and [Web Agent Rollback](https://arxiv.org/abs/2504.11788). -->
 - 4/2025: 🎓 Awarded as a Finalist for the School of Engineering (SENG) PhD Research Excellence Award 2024–25. Many thanks to my supervisor and all collaborators for their support!
 - 1/2025: 🚀 The [Concept-reversed Winograd Schema Challenge](https://arxiv.org/abs/2410.12040) paper was accepted to NAACL 2025 main conference. Congratulations to Kaiqiao and the team!
-- 8/2024: 🎓 Successfully defended my Ph.D.!
+<!-- - 8/2024: 🎓 Successfully defended my Ph.D.! -->
 <!-- - 5/2024: 🚀 3 papers accepted to ACL main conference! -->
 <!-- - 5/2024: 🚀 Our original paper of [conceptualization](https://arxiv.org/abs/2206.01532) is finally accepted by Artifitial Intelligence journal after two years (many of the follow-up works are already accepted by conferences though). Big shout out to Mutian, who has put tremendous efforts into this amazing work. -->
 <!-- - 4/2024: Invited to serve as Senior Area Chair of ACL ARR in April 2024! -->
