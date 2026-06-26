@@ -17,11 +17,9 @@ Previously, I was a visiting Ph.D. student at EPFL, working with Prof. [Antoine 
 Research Interest
 ------
 
-### Current Research Topics
-
 - **Agent Foundation Model Post-Training**
   - **Synthetic data generation:** [Explore to Evolve](https://github.com/Tencent/WebAggregator) - proactive online exploration to scale agentic training data.
-  - **SFT & Agentic RL:** open training recipe from [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414), with critical-step-level RL via [Verified Critical Step Optimization](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=Tb3rc34AAAAJ&sortby=pubdate&citation_for_view=Tb3rc34AAAAJ:SeFeTyx0c_EC).
+  - **SFT & Agentic RL:** open training recipe from [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414), with critical-step-level RL via [CSO](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=Tb3rc34AAAAJ&sortby=pubdate&citation_for_view=Tb3rc34AAAAJ:SeFeTyx0c_EC).
 
 - **Agent Harness Engineering**
   - **[CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414) ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro)):** a modular deep-research-agent framework built on maximally free tools, with orchestration, tool-use, and memory design that reaches SoTA on GAIA.
