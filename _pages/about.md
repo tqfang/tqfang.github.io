@@ -22,7 +22,7 @@ Research Interest
   - **SFT & Agentic RL:** open training recipe from [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414), with critical-step-level RL via [CSO](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=Tb3rc34AAAAJ&sortby=pubdate&citation_for_view=Tb3rc34AAAAJ:SeFeTyx0c_EC).
 
 - **Agent Harness Engineering**
-  - **[CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414) ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro)):** a modular deep-research-agent framework built on maximally free tools, with orchestration, tool-use, and memory design that reaches SoTA on GAIA.
+  - **[CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414) ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/CognitiveKernel-Pro?style=social)](https://github.com/Tencent/CognitiveKernel-Pro/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Tencent/CognitiveKernel-Pro?style=social)](https://github.com/Tencent/CognitiveKernel-Pro/forks)):** a modular deep-research-agent framework built on maximally free tools, with orchestration, tool-use, and memory design that reaches SoTA on GAIA.
 
 - **Self-Evolving Agents** ([GitHub](https://github.com/Tencent/selfEvolvingAgent)):
   building agents that improve through real-world exploration ([OpenWebVoyager](https://arxiv.org/abs/2410.19609)), world-model-driven simulation ([WebEvolver](https://arxiv.org/abs/2504.21024)), and test-time rubric-guided verification ([DeepVerifier](https://arxiv.org/pdf/2601.15808)).
@@ -73,7 +73,7 @@ Publication
 
 - **Tianqing Fang\***, Zhisong Zhang\*, Xiaoyang Wang, Rui Wang, Can Qin, Yuxuan Wan, Jun-Yu Ma, Ce Zhang, Jiaqi Chen, Xiyun Li, Hongming Zhang, Haitao Mi, Dong Yu.         
 **Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training**       
-Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2508.00414) [\[code\]](https://github.com/Tencent/CognitiveKernel-Pro) [\[data\]](https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-Query) [\[model\]](https://huggingface.co/CognitiveKernel/Qwen3-8B-CK-Pro)
+Technical Report, 2025 [\[paper\]](https://arxiv.org/abs/2508.00414) [\[code\]](https://github.com/Tencent/CognitiveKernel-Pro) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/CognitiveKernel-Pro?style=social)](https://github.com/Tencent/CognitiveKernel-Pro/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Tencent/CognitiveKernel-Pro?style=social)](https://github.com/Tencent/CognitiveKernel-Pro/forks) [\[data\]](https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-Query) [\[model\]](https://huggingface.co/CognitiveKernel/Qwen3-8B-CK-Pro)
 
 
 - **Tianqing Fang**, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu.         
