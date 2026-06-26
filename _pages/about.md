@@ -18,18 +18,18 @@ Research Interest
 ------
 
 - **Agent Foundation Model Post-Training**
-  - **Synthetic data generation:** [Explore to Evolve](https://github.com/Tencent/WebAggregator) - proactive online exploration to scale agentic training data.
+  - **Synthetic data generation:** [Explore to Evolve](https://github.com/Tencent/WebAggregator) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/WebAggregator?style=social)](https://github.com/Tencent/WebAggregator/stargazers) - proactive online exploration to scale agentic training data.
   - **SFT & Agentic RL:** open training recipe from [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414), with critical-step-level RL via [CSO](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=Tb3rc34AAAAJ&sortby=pubdate&citation_for_view=Tb3rc34AAAAJ:SeFeTyx0c_EC).
 
 - **Agent Harness Engineering**
   - **[CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414) ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/CognitiveKernel-Pro?style=social)](https://github.com/Tencent/CognitiveKernel-Pro/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Tencent/CognitiveKernel-Pro?style=social)](https://github.com/Tencent/CognitiveKernel-Pro/forks)):** a modular deep-research-agent framework built on maximally free tools, with orchestration, tool-use, and memory design that reaches SoTA on GAIA.
 
-- **Self-Evolving Agents** ([GitHub](https://github.com/Tencent/selfEvolvingAgent)):
+- **Self-Evolving Agents** ([GitHub](https://github.com/Tencent/selfEvolvingAgent) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/selfEvolvingAgent?style=social)](https://github.com/Tencent/selfEvolvingAgent/stargazers)):
   building agents that improve through real-world exploration ([OpenWebVoyager](https://arxiv.org/abs/2410.19609)), world-model-driven simulation ([WebEvolver](https://arxiv.org/abs/2504.21024)), and test-time rubric-guided verification ([DeepVerifier](https://arxiv.org/pdf/2601.15808)).
 
 - **Agent World Models & Experience Learning**
   - **Co-evolving world model:** [WebEvolver](https://arxiv.org/abs/2504.21024) - a web agent that co-evolves with a learned world model for look-ahead simulation and self-improvement.
-  - **Reward-free world modeling:** Spontaneous, reward-free world model agent [paper](https://arxiv.org/pdf/2604.18131).
+  - **[Reward-free world modeling](https://arxiv.org/pdf/2604.18131):** Spontaneous, reward-free world model agent.
   - **[PatchWorld](https://arxiv.org/abs/2605.30880):** Gradient-free optimization of world models.
 
 <!-- Topic in Ph.D.:
