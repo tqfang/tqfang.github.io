@@ -19,14 +19,20 @@ Research Interest
 
 ### Current Research Topics
 
-- **Agent Foundation Model Post-Train**
-  - **Deep Research Agent [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414) ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro)):** A fully open-source agent built with maximally free tools, featuring an open-source agent foundation model and transparent SFT training recipes.
-  - **Synthetic Data Generation:** [Explore to Evolve](https://github.com/Tencent/WebAggregator) for SFT and RL.
-  - **Agentic RL**
-- **Self-evolving of Agents ([GitHub](https://github.com/Tencent/selfEvolvingAgent))**
-  - **Experience Learning & World Modeling:** World model-based self-evolving agent ([WebEvolver](https://arxiv.org/abs/2504.21024)). Agentic experience injection ([WebCoT](https://arxiv.org/abs/2505.20013)).
-  - **[OpenWebVoyager](https://arxiv.org/abs/2410.19609):** Self-evolving multi-modal agent foundation models.
-  - **[Test-time Self-Evolving](https://arxiv.org/pdf/2601.15808):** Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification.
+- **Agent Foundation Model Post-Training**
+  - **Synthetic data generation:** [Explore to Evolve](https://github.com/Tencent/WebAggregator) - proactive online exploration to scale agentic training data.
+  - **SFT & Agentic RL:** open training recipe from [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414), with critical-step-level RL via [Verified Critical Step Optimization](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=Tb3rc34AAAAJ&sortby=pubdate&citation_for_view=Tb3rc34AAAAJ:SeFeTyx0c_EC).
+
+- **Agent Harness Engineering**
+  - **[CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414) ([GitHub](https://github.com/Tencent/CognitiveKernel-Pro)):** a modular deep-research-agent framework built on maximally free tools, with orchestration, tool-use, and memory design that reaches SoTA on GAIA.
+
+- **Self-Evolving Agents** ([GitHub](https://github.com/Tencent/selfEvolvingAgent)):
+  building agents that improve through real-world exploration ([OpenWebVoyager](https://arxiv.org/abs/2410.19609)), world-model-driven simulation ([WebEvolver](https://arxiv.org/abs/2504.21024)), and test-time rubric-guided verification ([DeepVerifier](https://arxiv.org/pdf/2601.15808)).
+
+- **Agent World Models & Experience Learning**
+  - **Co-evolving world model:** [WebEvolver](https://arxiv.org/abs/2504.21024) - a web agent that co-evolves with a learned world model for look-ahead simulation and self-improvement.
+  - **Reward-free world modeling:** Spontaneous, reward-free world model agent [paper](https://arxiv.org/pdf/2604.18131).
+  - **[PatchWorld](https://arxiv.org/abs/2605.30880):** Gradient-free optimization of world models.
 
 <!-- Topic in Ph.D.:
 
