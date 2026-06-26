@@ -18,7 +18,7 @@ Research Interest
 ------
 
 - **Agent Foundation Model Post-Training**
-  - **Synthetic data generation:** [Explore to Evolve](https://github.com/Tencent/WebAggregator) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/WebAggregator?style=social)](https://github.com/Tencent/WebAggregator/stargazers) - proactive online exploration to scale agentic training data.
+  - **Synthetic data generation:** [WebAggregator](https://github.com/Tencent/WebAggregator) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/WebAggregator?style=social)](https://github.com/Tencent/WebAggregator/stargazers) - proactive online exploration to scale agentic training data.
   - **SFT & Agentic RL:** open training recipe from [CognitiveKernel-Pro](https://arxiv.org/abs/2508.00414), with critical-step-level RL via [CSO](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=Tb3rc34AAAAJ&sortby=pubdate&citation_for_view=Tb3rc34AAAAJ:SeFeTyx0c_EC).
 
 - **Agent Harness Engineering**
