@@ -331,8 +331,8 @@ Check out some of my photography works on [unsplash](https://unsplash.com/@tqfan
 
 Also, my cat Mili is a KOC (key opinion cat) on [Rednote/Xiaohongshu](https://www.xiaohongshu.com/user/profile/614af023000000000201e2d9).
 
-<a href="https://info.flagcounter.com/FgqR">
-  <img src="https://s01.flagcounter.com/map/FgqR/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0">
+<a href="http://s01.flagcounter.com/more/zEa">
+  <img src="https://s01.flagcounter.com/map/zEa/size_s/txt_000000/border_FFFFFF/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0">
 </a>
 
 <!-- 
