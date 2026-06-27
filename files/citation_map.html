@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Citation Map</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: #f5f6f8;
+        color: #222;
+      }
+
+      .wrap {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+      }
+
+      .card {
+        max-width: 680px;
+        background: #fff;
+        border: 1px solid #e2e5ea;
+        border-radius: 16px;
+        padding: 28px;
+        box-shadow: 0 12px 32px rgba(20, 28, 45, 0.08);
+      }
+
+      h1 {
+        margin: 0 0 12px;
+        font-size: 24px;
+      }
+
+      p {
+        margin: 0 0 12px;
+        line-height: 1.6;
+      }
+
+      code {
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      }
+
+      a {
+        color: #0057b8;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="card">
+        <h1>Citation Map Pending</h1>
+        <p>
+          The static citation map has not been generated yet.
+        </p>
+        <p>
+          Run <code>python tools/citation_map/update_citation_map.py</code> locally,
+          then commit the generated <code>files/citation_map.html</code> and
+          <code>files/citation_info.csv</code>.
+        </p>
+        <p>
+          Google Scholar profile:
+          <a href="https://scholar.google.com/citations?user=Tb3rc34AAAAJ&hl=en">Tianqing Fang</a>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

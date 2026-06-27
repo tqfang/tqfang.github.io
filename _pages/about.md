@@ -33,6 +33,18 @@ Research Interest
   - **[Reward-free world modeling](https://arxiv.org/pdf/2604.18131):** Spontaneous, reward-free world model agent.
   - **[PatchWorld](https://arxiv.org/abs/2605.30880):** Gradient-free optimization of world models.
 
+Citation Map
+------
+
+<iframe
+  src="{{ '/files/citation_map.html' | relative_url }}"
+  width="100%"
+  height="640"
+  frameborder="0"
+  loading="lazy"
+  style="border: 1px solid #e5e7eb; border-radius: 16px; background: #fff;">
+</iframe>
+
 <!-- Topic in Ph.D.:
 
 - **Knowledge Acquisition:** Commonsense knowledge acquisition at scale using information extraction ([ASER](https://hkust-knowcomp.github.io/ASER/html/index.html)) and knowledge base population ([DISCOS](https://arxiv.org/abs/2101.00154), [CKBP](https://arxiv.org/abs/2109.07679), [PseudoReasoner](https://arxiv.org/abs/2210.07988)); Conceptualization knowledge acquisition ([AbstractATOMIC](https://arxiv.org/abs/2206.01532), [CAT](https://arxiv.org/abs/2305.04808)).
