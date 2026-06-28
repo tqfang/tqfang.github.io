@@ -33,18 +33,6 @@ Research Interest
   - **[Reward-free world modeling](https://arxiv.org/pdf/2604.18131):** Spontaneous, reward-free world model agent.
   - **[PatchWorld](https://arxiv.org/abs/2605.30880):** Gradient-free optimization of world models.
 
-Citation Map
-------
-
-<iframe
-  src="https://citationmap.com/embed/Tb3rc34AAAAJ"
-  width="600"
-  height="450"
-  frameborder="0"
-  loading="lazy"
-  style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); max-width: 100%;">
-</iframe>
-
 <!-- Topic in Ph.D.:
 
 - **Knowledge Acquisition:** Commonsense knowledge acquisition at scale using information extraction ([ASER](https://hkust-knowcomp.github.io/ASER/html/index.html)) and knowledge base population ([DISCOS](https://arxiv.org/abs/2101.00154), [CKBP](https://arxiv.org/abs/2109.07679), [PseudoReasoner](https://arxiv.org/abs/2210.07988)); Conceptualization knowledge acquisition ([AbstractATOMIC](https://arxiv.org/abs/2206.01532), [CAT](https://arxiv.org/abs/2305.04808)).
@@ -347,6 +335,18 @@ Also, my cat Mili is a KOC (key opinion cat) on [Rednote/Xiaohongshu](https://ww
 <a href="http://s01.flagcounter.com/more/zEa">
   <img src="https://s01.flagcounter.com/map/zEa/size_s/txt_000000/border_FFFFFF/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0">
 </a>
+
+Citation Map
+------
+
+<iframe
+  src="https://citationmap.com/embed/Tb3rc34AAAAJ"
+  width="400"
+  height="300"
+  frameborder="0"
+  loading="lazy"
+  style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); max-width: 100%;">
+</iframe>
 
 <!-- 
 
