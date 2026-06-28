@@ -37,12 +37,12 @@ Citation Map
 ------
 
 <iframe
-  src="{{ '/files/citation_map.html' | relative_url }}"
-  width="100%"
-  height="640"
+  src="https://citationmap.com/embed/Tb3rc34AAAAJ"
+  width="600"
+  height="450"
   frameborder="0"
   loading="lazy"
-  style="border: 1px solid #e5e7eb; border-radius: 16px; background: #fff;">
+  style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); max-width: 100%;">
 </iframe>
 
 <!-- Topic in Ph.D.:
